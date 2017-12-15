@@ -120,10 +120,10 @@ namespace Sabbertest2
                 int i = 1;
                 XDocument doc = XDocument.Load(fileName);
                 var authors = doc.Descendants("Entity").Descendants("Tag").Where(x => x.Attribute("name").Value == "CARDNAME").Elements("enUS");
-                byte[] byteArray = Encoding.UTF8.GetBytes("D:\\GameInnovationLab\\xmldata test.txt");
+               // byte[] byteArray = Encoding.UTF8.GetBytes("D:\\GameInnovationLab\\xmldata test.txt");
                 //byte[] byteArray = Encoding.ASCII.GetBytes(contents);
-                MemoryStream stream = new MemoryStream(byteArray);
-                System.IO.StreamWriter file = new System.IO.StreamWriter(stream);
+                //MemoryStream stream = new MemoryStream(byteArray);
+                //System.IO.StreamWriter file = new System.IO.StreamWriter(stream);
                 foreach (var author in authors)
                 {
 
