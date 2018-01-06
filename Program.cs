@@ -34,13 +34,13 @@ namespace Sabbertest2
         static Dictionary<string, int> cardname = new Dictionary<string, int>();
         //private static string locOfMaster = "D:\\GameInnovationLab\\SabberStone-master";//most important line, this indicates location of the project in your machine. edit here only, exactly as shown.
         private static int maxDepth = 13;//maxDepth = 10 and maxWidth = 500 is optimal 
-        private static int maxWidth = 50;//keep maxDepth high(around 13) and maxWidth very low (40) for maximum speed
+        private static int maxWidth = 30;//keep maxDepth high(around 13) and maxWidth very low (40) for maximum speed
         private static Stopwatch stopwatch = new Stopwatch();
         private static int parallelThreads = 10;// number of parallel running threads
         private static int testsInEachThread = 1;//number of games in each thread
                                                  //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
-        private static int parallelThreadsInner = 10;
-        private static int testsInEachThreadInner = 5;
+        private static int parallelThreadsInner = 1;
+        private static int testsInEachThreadInner = 50;
         //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
         private static void Main(string[] args)
         {
