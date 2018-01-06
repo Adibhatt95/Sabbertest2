@@ -1,0 +1,4332 @@
+Starting test setup. v6.5:no parallel threads, run linearly 1200 times, each time same deck mutate till victory, then make mutated victory deck player 2 and start over player 1 keep doing till mutated deck defeated by initial deck, max depth =13 , max width = 40
+Flame Lance
+Effigy
+Fallen Hero
+Arcane Blast
+Polymorph: Boar
+Dalaran Aspirant
+Spellslinger
+Coldarra Drake
+Rhonin
+Ram Wrangler
+Holy Champion
+Spawn of Shadows
+Power Word: Glory
+Shadowfiend
+Convert
+Confuse
+Twilight Guardian
+Confessor Paletress
+Dreadsteed
+Fearsome Doomguard
+Tiny Knight of Evil
+Fist of Jaraxxus
+Void Crusher
+Demonfuse
+Dark Bargain
+Wrathguard
+Wilfred Fizzlebang
+Shado-Pan Rider
+Buccaneer
+Undercity Valiant
+Cutpurse
+Shady Dealer
+Burgle
+Poisoned Blade
+Beneath the Grounds
+Anub'arak
+Living Roots
+Darnassus Aspirant
+Savage Combatant
+Wildwalker
+Knight of the Wild
+Call of the Wild
+Druid of the Saber
+Astral Communion
+Mulch
+Aviana
+Tuskarr Totemic
+Draenei Totemcarver
+Healing Wave
+Thunder Bluff Valiant
+Charged Hammer
+Elemental Destruction
+Totem Golem
+Ancestral Knowledge
+The Mistcaller
+Flash Heal
+Powershot
+Stablemaster
+King's Elekk
+Brave Archer
+Bear Trap
+Lock and Load
+Ball of Spiders
+Acidmaw
+Dreadscale
+Bash
+King's Defender
+Orgrimmar Aspirant
+Magnataur Alpha
+Bolster
+Sparring Partner
+Skycap'n Kragg
+Alexstrasza's Champion
+Varian Wrynn
+Competitive Spirit
+Seal of Champions
+Warhorse Trainer
+Murloc Knight
+Argent Lance
+Enter the Coliseum
+Mysterious Challenger
+Garrison Commander
+Eadric the Pure
+Lowly Squire
+Dragonhawk Rider
+Lance Carrier
+Maiden of the Lake
+Saboteur
+Argent Horserider
+Mogor's Champion
+Boneguard Lieutenant
+Mukla's Champion
+Tournament Medic
+Ice Rager
+Frigid Snobold
+Flame Juggler
+Silent Knight
+Clockwork Knight
+Tournament Attendee
+Sideshow Spelleater
+Kodorider
+Silver Hand Regent
+Pit Fighter
+Captured Jormungar
+North Sea Kraken
+Tuskarr Jouster
+Injured Kvaldir
+Light's Champion
+Armored Warhorse
+Argent Watchman
+Coliseum Manager
+Refreshment Vendor
+Master Jouster
+Recruiter
+Evil Heckler
+Fencing Coach
+Wyrmrest Agent
+Master of Ceremonies
+Grand Crusader
+Kvaldir Raider
+Frost Giant
+Crowd Favorite
+Gormok the Impaler
+Chillmaw
+Bolf Ramshield
+Icehowl
+Nexus-Champion Saraad
+The Skeleton Knight
+Fjola Lightbane
+Sea Reaver
+Eydis Darkbane
+Justicar Trueheart
+Gadgetzan Jouster
+Solemn Vigil
+Flamewaker
+Dragon's Breath
+Twilight Whelp
+Demonwrath
+Imp Gang Boss
+Gang Up
+Dark Iron Skulker
+Volcanic Lumberer
+Druid of the Flame
+Lava Shock
+Fireguard Destroyer
+Quick Shot
+Core Rager
+Revenge
+Axe Flinger
+Resurrect
+Dragon Consort
+Grim Patron
+Dragonkin Sorcerer
+Dragon Egg
+Drakonid Crusher
+Volcanic Drake
+Hungry Dragon
+Majordomo Executus
+Ragnaros the Firelord
+Emperor Thaurissan
+Rend Blackhand
+Nefarian
+Chromaggus
+Blackwing Technician
+Blackwing Corruptor
+Baron Geddon
+Onyxia
+Raza the Chained
+Freezing Potion
+Wind-up Burglebot
+Hidden Cache
+Street Trickster
+Red Mana Wyrm
+Jinyu Waterspeaker
+Grimestreet Protector
+Kooky Chemist
+Blubber Baron
+Volcanic Potion
+Kabal Lackey
+Hozen Healer
+Felfire Potion
+Weasel Tunneler
+Mistress of Mixtures
+Public Defender
+Smuggler's Run
+Kun the Forgotten King
+Call in the Finishers
+Jade Chieftain
+Finders Keepers
+Alleycat
+Rat Pack
+Grimestreet Informant
+White Eyes
+Small-Time Buccaneer
+Fight Promoter
+Knuckles
+Smuggler's Crate
+Dispatch Kodo
+Shaky Zipgunner
+Piranha Launcher
+Trogg Beastrager
+Sergeant Sally
+Luckydo Buccaneer
+Jade Behemoth
+Finja, the Flying Star
+Jade Idol
+Potion of Madness
+Greater Healing Potion
+Drakonid Operative
+Mana Geode
+Blastcrystal Potion
+Fel Orc Soulfiend
+Crystalweaver
+Bloodfury Potion
+Mark of the Lotus
+Pilfered Power
+Celestial Dreamer
+Kabal Chemist
+Potion of Polymorph
+Kazakus
+Greater Arcane Missiles
+Kabal Talonpriest
+Counterfeit Coin
+Brass Knuckles
+Lotus Assassin
+Shadow Rager
+Patches the Pirate
+Grimestreet Enforcer
+Hobart Grapplehammer
+Backstreet Leper
+Blowgill Sniper
+Big-Time Racketeer
+Kabal Courier
+Grimscale Chum
+Naga Corsair
+Second-Rate Bruiser
+Hired Gun
+Friendly Bartender
+Toxic Sewer Ooze
+Streetwise Investigator
+Kabal Songstealer
+Backroom Bouncer
+Gadgetzan Socialite
+Manic Soulcaster
+Pint-Size Potion
+Dragonfire Potion
+Kabal Trafficker
+Worgen Greaser
+Grook Fu Master
+Bomb Squad
+Doppelgangster
+Burgly Bully
+Mayor Noggenfogger
+Cryomancer
+Madam Goya
+Don Han'Cho
+Inkmaster Solia
+Spiked Hogrider
+Jade Shuriken
+Jade Swarmer
+Gadgetzan Ferryman
+Shadow Sensei
+Devolve
+Lotus Illusionist
+Seadevil Stinger
+Jade Lightning
+Jade Blossom
+Jade Spirit
+Sleep with the Fishes
+Jade Claws
+Krul the Unshackled
+Abyssal Enforcer
+Stolen Goods
+Grimestreet Outfitter
+Grimy Gadgeteer
+Grimestreet Pawnbroker
+Alley Armorsmith
+Meanstreet Marshal
+Kabal Crystal Runner
+Shaku, the Collector
+Dirty Rat
+Getaway Kodo
+Wrathion
+Auctionmaster Beardo
+Genzo, the Shark
+Tanaris Hogchopper
+Leatherclad Hogleader
+Lunar Visions
+Wickerflame Burnbristle
+Virmen Sensei
+Daring Reporter
+Lotus Agents
+Grimestreet Smuggler
+Ancient of Blossoms
+Defias Cleaner
+Unlicensed Apothecary
+Aya Blackpaw
+Small-Time Recruits
+I Know a Guy
+Goldshire Footman
+Fen Creeper
+Holy Nova
+Mind Control
+Inner Fire
+Holy Smite
+Mind Vision
+Power Word: Shield
+Claw
+Healing Touch
+Moonfire
+Mark of the Wild
+Savage Roar
+Swipe
+Wild Growth
+Polymorph
+Arcane Intellect
+Frostbolt
+Arcane Explosion
+Frost Nova
+Mirror Image
+Blizzard
+Fireball
+Ice Lance
+Flamestrike
+Water Elemental
+Frost Shock
+Ancestral Spirit
+Windfury
+Ancestral Healing
+Fire Elemental
+Rockbiter Weapon
+Bloodlust
+Far Sight
+Shadow Bolt
+Blood Imp
+Drain Life
+Hellfire
+Corruption
+Dread Infernal
+Voidwalker
+Backstab
+Cold Blood
+Deadly Poison
+Sinister Strike
+Assassinate
+Sprint
+Assassin's Blade
+Hunter's Mark
+Blessing of Might
+Guardian of Kings
+Holy Light
+Light's Justice
+Blessing of Kings
+Consecration
+Hammer of Wrath
+Truesilver Champion
+Charge
+Rampage
+Heroic Strike
+Fiery War Axe
+Execute
+Arcanite Reaper
+Cleave
+Earthen Ring Farseer
+Magma Rager
+Oasis Snapjaw
+River Crocolisk
+Frostwolf Grunt
+Raid Leader
+Wolfrider
+Ironfur Grizzly
+Silverback Patriarch
+Stormwind Knight
+Ironforge Rifleman
+Kobold Geomancer
+Southsea Deckhand
+Gnomish Inventor
+Stormpike Commando
+Silver Hand Knight
+Archmage
+Ravenholdt Assassin
+Lord of the Arena
+Murloc Raider
+Young Dragonhawk
+Stonetusk Boar
+Bloodfen Raptor
+Bluegill Warrior
+Sen'jin Shieldmasta
+Injured Blademaster
+Chillwind Yeti
+War Golem
+Booty Bay Bodyguard
+Abusive Sergeant
+Elven Archer
+Razorfen Hunter
+Ogre Magi
+Boulderfist Ogre
+Core Hound
+Ironbeak Owl
+Reckless Rocketeer
+Spiteful Smith
+Stormwind Champion
+Frostwolf Warlord
+Venture Co. Mercenary
+Wisp
+Ironbark Protector
+Blade Flurry
+Shadow Word: Pain
+Northshire Cleric
+Divine Spirit
+Starving Buzzard
+Darkscale Healer
+Houndmaster
+Timber Wolf
+Tundra Rhino
+Multi-Shot
+Tracking
+Arcane Shot
+Gladiator's Longbow
+Mind Blast
+Lightwarden
+The Black Knight
+Young Priestess
+Big Game Hunter
+Alarm-o-Bot
+Acolyte of Pain
+Argent Squire
+Angry Chicken
+Worgen Infiltrator
+Voodoo Doctor
+Bloodmage Thalnos
+King Mukla
+Novice Engineer
+Sylvanas Windrunner
+Jungle Panther
+Shattered Sun Cleric
+Scarlet Crusader
+Thrallmar Farseer
+Silvermoon Guardian
+Dragonling Mechanic
+Stranglethorn Tiger
+Leper Gnome
+Sunwalker
+Windfury Harpy
+Twilight Drake
+Questing Adventurer
+Ancient Watcher
+Dark Iron Dwarf
+Spellbreaker
+Youthful Brewmaster
+Coldlight Oracle
+Mana Addict
+Ancient Brewmaster
+Sunfury Protector
+Crazed Alchemist
+Old Murk-Eye
+Acidic Swamp Ooze
+Argent Commander
+Pint-Sized Summoner
+Secretkeeper
+Mad Bomber
+Tinkmaster Overspark
+Warsong Commander
+Mind Control Tech
+Arcane Golem
+Cabal Shadow Priest
+Defender of Argus
+Gadgetzan Auctioneer
+Loot Hoarder
+Abomination
+Lorewalker Cho
+Demolisher
+Coldlight Seer
+Mountain Giant
+Cairne Bloodhoof
+Gelbin Mekkatorque
+Leeroy Jenkins
+Eviscerate
+Betrayal
+Conceal
+Fan of Knives
+Noble Sacrifice
+Defias Ringleader
+Eye for an Eye
+Perdition's Blade
+SI:7 Agent
+Redemption
+Headcrack
+Shadowstep
+Preparation
+Wrath
+Mark of Nature
+Soul of the Forest
+Power of the Wild
+Naturalize
+Dire Wolf Alpha
+Nourish
+Druid of the Claw
+Keeper of the Grove
+Innervate
+Emperor Cobra
+Starfire
+Ancient of War
+Lightning Bolt
+Lava Burst
+Dust Devil
+Totemic Might
+Earth Shock
+Hex
+Stormforged Axe
+Feral Spirit
+Earth Elemental
+Forked Lightning
+Unbound Elemental
+Lightning Storm
+Ethereal Arcanist
+Cone of Cold
+Arcane Missiles
+Shiv
+Pyroblast
+Frost Elemental
+Azure Drake
+Counterspell
+Ice Barrier
+Mirror Entity
+Ice Block
+Felguard
+Mortal Coil
+Shadowflame
+Void Terror
+Succubus
+Soulfire
+Siphon Soul
+Doomguard
+Twisting Nether
+Pit Lord
+Summoning Portal
+Power Overwhelming
+Sense Demons
+Flame Imp
+Bane of Doom
+Lord Jaraxxus
+Silence
+Shadow Madness
+Lightspawn
+Thoughtsteal
+Lightwell
+Mindgames
+Divine Favor
+Prophet Velen
+Lay on Hands
+Blessed Champion
+Humility
+Argent Protector
+Blessing of Wisdom
+Holy Wrath
+Sword of Justice
+Hand of Protection
+Repentance
+Aldor Peacekeeper
+Tirion Fordring
+Avenging Wrath
+Tauren Warrior
+Slam
+Battle Rage
+Amani Berserker
+Mogu'shan Warden
+Arathi Weaponsmith
+Gurubashi Berserker
+Whirlwind
+Armorsmith
+Shieldbearer
+Brawl
+Mortal Strike
+Upgrade!
+Shield Slam
+Gorehowl
+Raging Worgen
+Grommash Hellscream
+Murloc Tidehunter
+Murloc Warleader
+Grimscale Oracle
+Murloc Tidecaller
+Patient Assassin
+Scavenging Hyena
+Misdirection
+Savannah Highmane
+Eaglehorn Bow
+Explosive Shot
+Unleash the Hounds
+Kill Command
+King Krush
+Flare
+Bestial Wrath
+Snake Trap
+Harvest Golem
+Nat Pagle
+Harrison Jones
+Archmage Antonidas
+Nozdormu
+Alexstrasza
+Malygos
+Faceless Manipulator
+Flametongue Totem
+Doomhammer
+Bite
+Force of Nature
+Ysera
+Cenarius
+Mana Tide Totem
+The Beast
+Savagery
+Sap
+Dalaran Mage
+Priestess of Elune
+Ancient Mage
+Sea Giant
+Windspeaker
+Blood Knight
+Auchenai Soulpriest
+Nightblade
+Vaporize
+Cult Master
+Demonfire
+Imp Master
+Cruel Taskmaster
+Frothing Berserker
+Shield Block
+Inner Rage
+Sorcerer's Apprentice
+Snipe
+Explosive Trap
+Freezing Trap
+Kirin Tor Mage
+Edwin VanCleef
+Illidan Stormrage
+Mana Wraith
+Deadly Shot
+Equality
+Molten Giant
+Circle of Healing
+Shadow Word: Death
+Temple Enforcer
+Holy Fire
+Shadowform
+Mass Dispel
+Blood-Queen Lana'thel
+Professor Putricide
+Sindragosa
+Zombie Chow
+Haunted Creeper
+Echoing Ooze
+Mad Scientist
+Shade of Naxxramas
+Nerubian Egg
+Spectral Knight
+Deathlord
+Maexxna
+Webspinner
+Sludge Belcher
+Kel'Thuzad
+Stalagg
+Feugen
+Wailing Soul
+Nerub'ar Weblord
+Duplicate
+Poison Seeds
+Avenge
+Death's Bite
+Voidcaller
+Dark Cultist
+Unstable Ghoul
+Reincarnate
+Anub'ar Ambusher
+Stoneskin Gargoyle
+Undertaker
+Dancing Swords
+Loatheb
+Baron Rivendare
+Flamecannon
+Snowchugger
+Unstable Portal
+Goblin Blastmage
+Echo of Medivh
+Mechwarper
+Flame Leviathan
+Lightbomb
+Shadowbomber
+Velen's Chosen
+Shrinkmeister
+Light of the Naaru
+Cogmaster
+Vol'jin
+Darkbomb
+Fel Reaver
+Call Pet
+Mistress of Pain
+Demonheart
+Fel Cannon
+Mal'Ganis
+Tinker's Sharpsword Oil
+Goblin Auto-Barber
+Cogmaster's Wrench
+One-eyed Cheat
+Feign Death
+Iron Sensei
+Trade Prince Gallywix
+Ancestor's Call
+Anodized Robo Cub
+Recycle
+Grove Tender
+Tree of Life
+Mech-Bear-Cat
+Malorne
+Powermace
+Whirling Zap-o-matic
+Crackle
+Vitality Totem
+Siltfin Spiritwalker
+Dark Wispers
+Neptulon
+Glaivezooka
+Spider Tank
+Imp-losion
+King of Beasts
+Sabotage
+Metaltooth Leaper
+Gahz'rilla
+Bouncing Blade
+Warbot
+Crush
+Shieldmaiden
+Ogre Warmaul
+Screwjank Clunker
+Iron Juggernaut
+Seal of Light
+Shielded Minibot
+Coghammer
+Quartermaster
+Muster for Battle
+Cobalt Guardian
+Bolvar Fordragon
+Puddlestomper
+Ogre Brute
+Dunemaul Shaman
+Stonesplinter Trogg
+Burly Rockjaw Trogg
+Antique Healbot
+Salty Dog
+Lost Tallstrider
+Shadowboxer
+Cobra Shot
+Kezan Mystic
+Ship's Cannon
+Explosive Sheep
+Anima Golem
+Mechanical Yeti
+Force-Tank MAX
+Druid of the Fang
+Gilblin Stalker
+Clockwork Gnome
+Upgraded Repair Bot
+Flying Machine
+Annoy-o-Tron
+Siege Engine
+Steamwheedle Sniper
+Ogre Ninja
+Illuminator
+Madder Bomber
+Arcane Nullifier X-21
+Gnomish Experimenter
+Target Dummy
+Jeeves
+Goblin Sapper
+Piloted Shredder
+Lil' Exorcist
+Gnomeregan Infantry
+Bomb Lobber
+Floating Watcher
+Scarlet Purifier
+Tinkertown Technician
+Micro Machine
+Hobgoblin
+Piloted Sky Golem
+Junkbot
+Enhance-o Mechano
+Recombobulator
+Mini-Mage
+Dr. Boom
+Mimiron's Head
+Mogor the Ogre
+Foe Reaper 4000
+Sneed's Old Shredder
+Toshley
+Mekgineer Thermaplugg
+Gazlowe
+Troggzor the Earthinator
+Blingtron 3000
+Hemet Nesingwary
+Clockwork Giant
+Wee Spellstopper
+Soot Spewer
+Garrosh Hellscream
+Magni Bronzebeard
+Thrall
+Morgl the Oracle
+Valeera Sanguinar
+Maiev Shadowsong
+Uther Lightbringer
+Lady Liadrin
+Prince Arthas
+Rexxar
+Alleria Windrunner
+Malfurion Stormrage
+Gul'dan
+Jaina Proudmoore
+Medivh
+Khadgar
+Anduin Wrynn
+Tyrande Whisperwind
+Phantom Freebooter
+Skelemancer
+Exploding Bloatbat
+Snowflipper Penguin
+Rattling Rascal
+Grim Necromancer
+Bone Drake
+Sunborne Val'kyr
+Cobalt Scalebane
+Night Howler
+Venomancer
+Arrogant Crusader
+Righteous Protector
+Dark Conviction
+Defile
+Fatespinner
+Toxic Arrow
+Webweave
+Druid of the Swarm
+Play Dead
+Spreading Plague
+Drain Soul
+Cryostasis
+Brrrloc
+Mountainfire Armor
+Blood Razor
+Bone Baron
+Vryghoul
+Ice Walker
+Ghastly Conjurer
+Light's Sorrow
+Despicable Dreadlord
+Avalanche
+Gnash
+Drakkari Defender
+Frozen Clone
+Doomed Apprentice
+Ultimate Infestation
+Glacial Mysteries
+Voodoo Hexxer
+Ice Fishing
+Snowfury Giant
+Dead Man's Hand
+Acherus Veteran
+Tuskarr Fisherman
+Fallen Sun Cleric
+Furnacefire Colossus
+Grave Shambler
+Tomb Lurker
+Ticking Abomination
+Venomstrike Trap
+Roll the Bones
+Treachery
+Devour Mind
+Shadow Ascendant
+Acolyte of Agony
+Eternal Servitude
+Obsidian Statue
+Archbishop Benedictus
+Howlfiend
+Deadscale Knight
+Leeching Poison
+Doomerang
+Shadow Essence
+Ice Breaker
+Animated Berserker
+Runeforge Haunter
+Corpse Widow
+Desperate Stand
+Blackguard
+Coldwraith
+Corpse Raiser
+Forge of Souls
+Moorabi
+The Lich King
+Rotface
+Gnomeferatu
+Val'kyr Soulclaimer
+Stitched Tracker
+Bearshark
+Death Revenant
+Saronite Chain Gang
+Deathspeaker
+Wretched Tiller
+Unwilling Sacrifice
+Thrall, Deathseer
+Happy Ghoul
+Skulking Geist
+Shallow Gravedigger
+Bonemare
+Nerubian Unraveler
+Howling Commander
+Spirit Lash
+Strongshell Scavenger
+Crypt Lord
+Plague Scientist
+Deathaxe Punisher
+Lilian Voss
+Meat Wagon
+Chillblade Champion
+Simulacrum
+Abominable Bowman
+Valeera the Hollow
+Deathstalker Rexxar
+Stubborn Gastropod
+Giant Wasp
+Uther of the Ebon Blade
+Shadowreaper Anduin
+Bloodreaver Gul'dan
+Malfurion the Pestilent
+Frost Lich Jaina
+Scourgelord Garrosh
+Hadronox
+Breath of Sindragosa
+Bring It On!
+Embrace Darkness
+Shadowblade
+Prince Keleseth
+Prince Taldaram
+Prince Valanar
+Arfus
+Hyldnir Frostrider
+Spellweaver
+Bolvar, Fireblood
+Necrotic Geist
+Drakkari Enchanter
+Mindbreaker
+Sanguine Reveler
+Wicked Skeleton
+Bloodworm
+Spectral Pillager
+Keening Banshee
+Corpsetaker
+Tainted Zealot
+Cat Trick
+Kindly Grandmother
+Cloaked Huntress
+Babbling Book
+Nightbane Templar
+Pompous Thespian
+Purify
+Wicked Witchdoctor
+Kara Kazham!
+Protect the King!
+Fool's Bane
+Runic Egg
+Pantry Spider
+Book Wyrm
+Priest of the Feast
+Arcane Anomaly
+Avian Watcher
+Moat Lurker
+Moroes
+Ivory Knight
+The Curator
+Netherspite Historian
+Spirit Claws
+Menagerie Warden
+Swashburglar
+Ethereal Peddler
+Maelstrom Portal
+Moonglade Portal
+Firelands Portal
+Silvermoon Portal
+Malchezaar's Imp
+Ironforge Portal
+Medivh's Valet
+Deadly Fork
+Zoobot
+Prince Malchezaar
+Medivh, the Guardian
+Barnes
+Onyx Bishop
+Silverware Golem
+Enchanted Raven
+Menagerie Magician
+Arcanosmith
+Arcane Giant
+Violet Illusionist
+Forgotten Torch
+Ethereal Conjurer
+Museum Curator
+Curse of Rafaam
+Obsidian Destroyer
+Pit Snake
+Reno Jackson
+Tomb Pillager
+Rumbling Elemental
+Keeper of Uldaman
+Tunnel Trogg
+Unearthed Raptor
+Desert Camel
+Dart Trap
+Fierce Monkey
+Dark Peddler
+Anyfin Can Happen
+Sacred Trial
+Jeweled Scarab
+Naga Sea Witch
+Gorillabot A-3
+Huge Toad
+Tomb Spider
+Mounted Raptor
+Jungle Moonkin
+Djinni of Zephyrs
+Anubisath Sentinel
+Fossilized Devilsaur
+Sir Finley Mrrgglton
+Brann Bronzebeard
+Elise Starseeker
+Summoning Stone
+Wobbling Runts
+Arch-Thief Rafaam
+Entomb
+Explorer's Hat
+Eerie Statue
+Ancient Shade
+Excavated Evil
+Everyfin is Awesome
+Raven Idol
+Reliquary Seeker
+Cursed Blade
+Animated Armor
+Murloc Tinyfin
+Sacrificial Pact
+Vanish
+Kidnapper
+Starfall
+Ancient of Lore
+Al'Akir the Windlord
+Kor'kron Elite
+Mana Wyrm
+Master of Disguise
+Captain's Parrot
+Hungry Crab
+Bloodsail Raider
+Knife Juggler
+Wild Pyromancer
+Doomsayer
+Dread Corsair
+Faerie Dragon
+Captain Greenskin
+Bloodsail Corsair
+Violet Teacher
+Southsea Captain
+Millhouse Manastorm
+Deathwing
+Animal Companion
+Commanding Shout
+Master Swordsmith
+Gruul
+Hogger
+Stampeding Kodo
+Vilefin Inquisitor
+Primal Fusion
+Flamewreathed Faceless
+Eternal Sentinel
+Evolve
+Thing from Below
+Hammer of Twilight
+Tentacles for Arms
+Silithid Swarmer
+Y'Shaarj, Rage Unbound
+Fandral Staghelm
+Infest
+Feral Rage
+Mark of Y'Shaarj
+Forbidden Ancient
+On the Hunt
+Bladed Cultist
+Journey Below
+Thistle Tea
+Xaril, Poisoned Mind
+Shatter
+Evolved Kobold
+Twilight Flamecaller
+Demented Frostcaller
+Forbidden Flame
+Servant of Yogg-Saron
+Cabalist's Tome
+Power Word: Tentacles
+Twilight Darkmender
+Shadow Word: Horror
+Forbidden Shaping
+Darkspeaker
+Embrace the Shadow
+Darkshire Librarian
+Darkshire Councilman
+Forbidden Ritual
+Spreading Madness
+Renounce Darkness
+Anomalus
+Cho'gall
+Mukla, Tyrant of the Vale
+Shifter Zerus
+Twin Emperor Vek'lor
+N'Zoth, the Corruptor
+Yogg-Saron, Hope's End
+Nerubian Prophet
+Faceless Behemoth
+Eldritch Horror
+Psych-o-Tron
+Corrupted Healbot
+Ravaging Ghoul
+Aberrant Berserker
+Tentacle of N'Zoth
+Grotesque Dragonhawk
+Bog Creeper
+Bilefin Tidehunter
+Zealous Initiate
+Corrupted Seer
+Disciple of C'Thun
+Blood of The Ancient One
+Faceless Shambler
+Shadow Strike
+Fiery Bat
+Klaxxi Amber-Weaver
+Wisps of the Old Gods
+Forbidden Healing
+Validated Doomsayer
+Mire Keeper
+Stormcrack
+Faceless Summoner
+Hallazeal the Ascended
+Infested Wolf
+Bloodhoof Brave
+Malkorok
+Selfless Hero
+Rallying Blade
+Divine Strength
+Ragnaros, Lightlord
+Darkshire Alchemist
+DOOM!
+Possessed Villager
+Twisted Worgen
+Am'gam Rager
+Infested Tauren
+Eater of Secrets
+Doomcaller
+Spawn of N'Zoth
+Southsea Squidface
+Scaled Nightmare
+Twilight Summoner
+Stand Against Darkness
+Blood Warriors
+C'Thun
+Beckoner of Evil
+Blade of C'Thun
+C'Thun's Chosen
+Twilight Geomancer
+Twilight Elder
+Ancient Harbinger
+Shadowcaster
+Forlorn Stalker
+Dark Arakkoa
+Cult Apothecary
+The Boogeymonster
+Ancient Shieldbearer
+Usher of Souls
+Cult Sorcerer
+Giant Sand Worm
+Princess Huhuran
+Steward of Darkshire
+A Light in the Darkness
+N'Zoth's First Mate
+Addled Grizzly
+Blood To Ichor
+Bloodsail Cultist
+Herald Volazj
+Deathwing, Dragonlord
+Hogger, Doom of Elwynn
+Midnight Drake
+Crazed Worshipper
+Blackwater Pirate
+Polluted Hoarder
+Carrion Grub
+Duskboar
+Squirming Tentacle
+Master of Evolution
+Undercity Huckster
+Hooded Acolyte
+Shifting Shade
+Cyclopian Horror
+Nat, the Darkfisher
+Skeram Cultist
+Soggoth the Slitherer
+Elite Tauren Chieftain
+Stampede
+Flesheating Ghoul
+Spellbender
+Pterrordax Hatchling
+Volcanosaur
+Dinosize
+Ravasaur Runt
+Sated Threshadon
+Hydrologist
+Sunkeeper Tarim
+Flame Geyser
+Air Elemental
+Arcanologist
+Steam Surger
+Mirage Caller
+Mana Bind
+Volcano
+Pyros
+Open the Waygate
+Shadow Visions
+Binding Heal
+Crystalline Oracle
+Radiant Elemental
+Curious Glimmerroot
+Tortollan Shellraiser
+Ravenous Pterrordax
+Tar Lurker
+Razorpetal Volley
+Razorpetal Lasher
+Mimic Pod
+Obsidian Shard
+Biteweed
+Vilespine Slayer
+Sherazin, Corpse Flower
+The Caverns Below
+Tol'vir Stoneshaper
+Giant Mastodon
+Stonehill Defender
+Rockpool Hunter
+Vicious Fledgling
+Eggnapper
+Tortollan Forager
+Frozen Crusher
+Thunder Lizard
+Devilsaur Egg
+Fire Plume Phoenix
+Emerald Hive Queen
+Giant Anaconda
+Bittertide Hydra
+Tortollan Primalist
+Gentle Megasaur
+Charged Devilsaur
+Verdant Longneck
+Shellshifter
+Evolving Spores
+Earthen Scales
+Elder Longneck
+Living Mana
+Bright-Eyed Scout
+Jungle Giants
+Primalfin Totem
+Fire Plume Harbinger
+Glacial Shard
+Stone Sentinel
+Kalimos, Primal Lord
+Terrorscale Stalker
+Nesting Roc
+Emerald Reaver
+Ultrasaur
+Golakka Crawler
+Fire Fly
+Stegodon
+Sabretooth Stalker
+Stormwatcher
+Servant of Kalimos
+Tidal Surge
+Volatile Elemental
+Envenom Weapon
+Lakkari Sacrifice
+Cruel Dinomancer
+Corrupting Mist
+Bloodbloom
+Lakkari Felhound
+Feeding Time
+Chittering Tunneler
+Clutchmother Zavas
+Tar Lord
+Hemet, Jungle Hunter
+The Voraxx
+Humongous Razorleaf
+Igneous Elemental
+Shimmering Tempest
+Blazecaller
+Primordial Drake
+Elise the Trailblazer
+Tyrantus
+Free From Amber
+Hallucination
+Spiritsinger Umbra
+Ozruk
+Grievous Bite
+Jeweled Macaw
+Tol'vir Warden
+Raptor Hatchling
+Crackling Razormaw
+Dinomancy
+Swamp King Dred
+The Marsh Queen
+Explore Un'Goro
+Iron Hide
+Ornery Direhorn
+Cornered Sentry
+Sudden Genesis
+Tar Creeper
+Molten Blade
+King Mosh
+Fire Plume's Heart
+Primalfin Lookout
+Hot Spring Guardian
+Awaken the Makers
+Primordial Glyph
+Unite the Murlocs
+Gluttonous Ooze
+Molten Reflection
+Vinecleaver
+Spikeridged Steed
+Primalfin Champion
+The Last Kaleidosaur
+Meteor
+Spirit Echo
+Direhorn Hatchling
+Lost in the Jungle
+Adaptation
+Lightfused Stegodon
+Lyra the Sunshard
+Count:30
+Printing Deck 0
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Timber Wolf
+Wisps of the Old Gods
+Twilight Guardian
+Cogmaster's Wrench
+Snowchugger
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sideshow Spelleater
+Sludge Belcher
+Naturalize
+Redemption
+Cobalt Guardian
+Obsidian Shard
+Player1: Mulligan 34,27
+Player2: Mulligan 
+here:0
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 0/1 options! [SOLUTIONS:2]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Timber Wolf[11]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 7/9 options! [SOLUTIONS:3]
+Depth: 3 --> 4/11 options! [SOLUTIONS:10]
+Depth: 4 --> 0/4 options! [SOLUTIONS:14]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Totem Golem[43]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:0
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 2/5 options! [SOLUTIONS:4]
+Depth: 3 --> 0/2 options! [SOLUTIONS:6]
+- Player 1 - <FitzVonGerald> ---------------------------
+MinionAttackTask => [FitzVonGerald] 'Timber Wolf[11]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 8/12 options! [SOLUTIONS:5]
+Depth: 3 --> 6/14 options! [SOLUTIONS:13]
+Depth: 4 --> 0/6 options! [SOLUTIONS:19]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Patches the Pirate[61]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Timber Wolf[11]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[43]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:0
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 27 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 4/7 options! [SOLUTIONS:4]
+Depth: 3 --> 0/4 options! [SOLUTIONS:8]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'King's Defender[20]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 6/10 options! [SOLUTIONS:5]
+Depth: 3 --> 0/6 options! [SOLUTIONS:11]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[59]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[43]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:0
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 22 / Hero[P2]: 26
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 16/22 options! [SOLUTIONS:7]
+Depth: 3 --> 0/16 options! [SOLUTIONS:23]
+- Player 1 - <FitzVonGerald> ---------------------------
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 10/11 options! [SOLUTIONS:1]
+Depth: 2 --> 15/25 options! [SOLUTIONS:11]
+Depth: 3 --> 8/23 options! [SOLUTIONS:26]
+Depth: 4 --> 5/13 options! [SOLUTIONS:34]
+Depth: 5 --> 0/5 options! [SOLUTIONS:39]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[45]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[43]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:0
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 17 / Hero[P2]: 23
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 6/11 options! [SOLUTIONS:6]
+Depth: 3 --> 4/10 options! [SOLUTIONS:12]
+Depth: 4 --> 0/4 options! [SOLUTIONS:16]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Hallazeal the Ascended[19]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 20/21 options! [SOLUTIONS:1]
+Depth: 2 --> 40/182 options! [SOLUTIONS:21]
+Depth: 3 --> 40/170 options! [SOLUTIONS:61]
+Depth: 4 --> 40/82 options! [SOLUTIONS:101]
+Depth: 5 --> 0/40 options! [SOLUTIONS:141]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[63]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Thing from Below[45]'(MINION) attack 'Hallazeal the Ascended[19]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[43]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:0
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 8 / Hero[P2]: 23
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 7/8 options! [SOLUTIONS:1]
+Depth: 2 --> 16/22 options! [SOLUTIONS:7]
+Depth: 3 --> 33/45 options! [SOLUTIONS:19]
+Depth: 4 --> 9/41 options! [SOLUTIONS:51]
+Depth: 5 --> 0/9 options! [SOLUTIONS:60]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Bloodfen Raptor[9]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'Pterrordax Hatchling[31]'(MINION) to Pos[1]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 0/3 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 74 to pick
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 26/27 options! [SOLUTIONS:1]
+Depth: 2 --> 40/323 options! [SOLUTIONS:30]
+Depth: 3 --> 40/259 options! [SOLUTIONS:78]
+Depth: 4 --> 40/152 options! [SOLUTIONS:132]
+Depth: 5 --> 34/83 options! [SOLUTIONS:181]
+Depth: 6 --> 0/34 options! [SOLUTIONS:215]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Thing from Below[45]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:23 time taken to execute completely (hh:mm:ss): 00:00:04
+ 
+Swapped Obsidian Shard with Dark Arakkoa
+ 
+Printing Deck 1
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Timber Wolf
+Wisps of the Old Gods
+Twilight Guardian
+Cogmaster's Wrench
+Snowchugger
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sideshow Spelleater
+Sludge Belcher
+Naturalize
+Redemption
+Cobalt Guardian
+Dark Arakkoa
+Player1: Mulligan 30
+Player2: Mulligan 67
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 1/2 options! [SOLUTIONS:2]
+Depth: 3 --> 0/1 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Molten Blade[28]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 2/3 options! [SOLUTIONS:2]
+Depth: 3 --> 1/3 options! [SOLUTIONS:4]
+Depth: 4 --> 0/1 options! [SOLUTIONS:5]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Snowchugger[17]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 2/4 options! [SOLUTIONS:3]
+Depth: 3 --> 0/2 options! [SOLUTIONS:5]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 7/8 options! [SOLUTIONS:1]
+Depth: 2 --> 11/18 options! [SOLUTIONS:8]
+Depth: 3 --> 5/16 options! [SOLUTIONS:19]
+Depth: 4 --> 0/5 options! [SOLUTIONS:24]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Naturalize[36]'(SPELL) 'Stoneclaw Totem[72]'
+MinionAttackTask => [FitzVonGerald] 'Snowchugger[17]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 10/11 options! [SOLUTIONS:1]
+Depth: 2 --> 40/89 options! [SOLUTIONS:11]
+Depth: 3 --> 40/135 options! [SOLUTIONS:51]
+Depth: 4 --> 27/67 options! [SOLUTIONS:91]
+Depth: 5 --> 0/27 options! [SOLUTIONS:118]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[40]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Totem Golem[42]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[75]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 29 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 7/8 options! [SOLUTIONS:1]
+Depth: 2 --> 12/19 options! [SOLUTIONS:8]
+Depth: 3 --> 0/12 options! [SOLUTIONS:20]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Silver Hand Regent[32]'(MINION) to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Snowchugger[17]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 23/24 options! [SOLUTIONS:1]
+Depth: 2 --> 40/289 options! [SOLUTIONS:24]
+Depth: 3 --> 40/243 options! [SOLUTIONS:64]
+Depth: 4 --> 40/254 options! [SOLUTIONS:104]
+Depth: 5 --> 40/158 options! [SOLUTIONS:144]
+Depth: 6 --> 40/84 options! [SOLUTIONS:184]
+Depth: 7 --> 0/40 options! [SOLUTIONS:224]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Spirit Claws[46]'(WEAPON)
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[63]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Silver Hand Regent[32]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Snowchugger[17]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[75]'(MINION) attack 'Snowchugger[17]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 25
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 0/6 options! [SOLUTIONS:7]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Captain Greenskin[23]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 36/37 options! [SOLUTIONS:1]
+Depth: 2 --> 40/626 options! [SOLUTIONS:37]
+Depth: 3 --> 40/172 options! [SOLUTIONS:77]
+Depth: 4 --> 40/98 options! [SOLUTIONS:117]
+Depth: 5 --> 18/58 options! [SOLUTIONS:157]
+Depth: 6 --> 0/18 options! [SOLUTIONS:175]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Azure Drake[67]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Captain Greenskin[23]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Captain Greenskin[23]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 22 / Hero[P2]: 25
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 1/7 options! [SOLUTIONS:7]
+Depth: 3 --> 0/1 options! [SOLUTIONS:8]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Dark Arakkoa[39]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 34/35 options! [SOLUTIONS:1]
+Depth: 2 --> 40/642 options! [SOLUTIONS:35]
+Depth: 3 --> 40/392 options! [SOLUTIONS:75]
+Depth: 4 --> 40/104 options! [SOLUTIONS:115]
+Depth: 5 --> 32/72 options! [SOLUTIONS:155]
+Depth: 6 --> 0/32 options! [SOLUTIONS:187]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Aya Blackpaw[68]'(MINION) to Pos[0]
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Dark Arakkoa[39]'
+MinionAttackTask => [RehHausZuckFuchs] 'Azure Drake[67]'(MINION) attack 'Dark Arakkoa[39]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 17 / Hero[P2]: 20
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 10/19 options! [SOLUTIONS:10]
+Depth: 3 --> 0/10 options! [SOLUTIONS:20]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Wisps of the Old Gods[12]'(SPELL) Option 1
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 40/95 options! [SOLUTIONS:1]
+Depth: 2 --> 40/2900 options! [SOLUTIONS:41]
+Depth: 3 --> 40/1846 options! [SOLUTIONS:81]
+Depth: 4 --> 40/1030 options! [SOLUTIONS:121]
+Depth: 5 --> 40/692 options! [SOLUTIONS:161]
+Depth: 6 --> 40/386 options! [SOLUTIONS:201]
+Depth: 7 --> 40/172 options! [SOLUTIONS:241]
+Depth: 8 --> 0/40 options! [SOLUTIONS:281]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[45]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[52]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Aya Blackpaw[68]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:1
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 8 / Hero[P2]: 20
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 22/23 options! [SOLUTIONS:1]
+Depth: 2 --> 40/415 options! [SOLUTIONS:23]
+Depth: 3 --> 40/308 options! [SOLUTIONS:63]
+Depth: 4 --> 40/230 options! [SOLUTIONS:103]
+Depth: 5 --> 40/200 options! [SOLUTIONS:143]
+Depth: 6 --> 40/160 options! [SOLUTIONS:183]
+Depth: 7 --> 40/120 options! [SOLUTIONS:223]
+Depth: 8 --> 40/280 options! [SOLUTIONS:263]
+Depth: 9 --> 0/40 options! [SOLUTIONS:303]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Flame Lance[30]'(SPELL) 'Wisp[80]'
+PlayCardTask => [FitzVonGerald] play 'Faerie Dragon[10]'(MINION) to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Wisp[81]'(MINION) attack 'Thing from Below[45]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[82]'(MINION) attack 'Thing from Below[45]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[83]'(MINION) attack 'Thing from Below[45]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[84]'(MINION) attack 'Thing from Below[45]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[85]'(MINION) attack 'Thing from Below[45]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[86]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 40/59 options! [SOLUTIONS:1]
+Depth: 2 --> 40/1416 options! [SOLUTIONS:42]
+Depth: 3 --> 40/360 options! [SOLUTIONS:85]
+Depth: 4 --> 40/241 options! [SOLUTIONS:142]
+Depth: 5 --> 40/107 options! [SOLUTIONS:182]
+Depth: 6 --> 23/65 options! [SOLUTIONS:224]
+Depth: 7 --> 3/29 options! [SOLUTIONS:250]
+Depth: 8 --> 0/3 options! [SOLUTIONS:253]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Ragnaros the Firelord[69]'(MINION) to Pos[3]
+EndTurnTask => [RehHausZuckFuchs]
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:19 time taken to execute completely (hh:mm:ss): 00:00:48
+ 
+Swapped Sideshow Spelleater with Greater Healing Potion
+ 
+Printing Deck 2
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Timber Wolf
+Wisps of the Old Gods
+Twilight Guardian
+Cogmaster's Wrench
+Snowchugger
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sludge Belcher
+Naturalize
+Redemption
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Player1: Mulligan 26,22
+Player2: Mulligan 57
+here:2
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 7/10 options! [SOLUTIONS:4]
+Depth: 3 --> 8/15 options! [SOLUTIONS:11]
+Depth: 4 --> 5/13 options! [SOLUTIONS:19]
+Depth: 5 --> 0/5 options! [SOLUTIONS:24]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[63]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[41]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:2
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 29 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Faerie Dragon[10]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 12/13 options! [SOLUTIONS:1]
+Depth: 2 --> 40/84 options! [SOLUTIONS:13]
+Depth: 3 --> 40/137 options! [SOLUTIONS:53]
+Depth: 4 --> 36/76 options! [SOLUTIONS:93]
+Depth: 5 --> 8/44 options! [SOLUTIONS:129]
+Depth: 6 --> 0/8 options! [SOLUTIONS:137]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[54]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Faerie Dragon[10]'
+EndTurnTask => [RehHausZuckFuchs]
+here:2
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 23 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Silver Hand Regent[32]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 16/17 options! [SOLUTIONS:1]
+Depth: 2 --> 40/143 options! [SOLUTIONS:17]
+Depth: 3 --> 40/212 options! [SOLUTIONS:57]
+Depth: 4 --> 40/133 options! [SOLUTIONS:97]
+Depth: 5 --> 40/100 options! [SOLUTIONS:137]
+Depth: 6 --> 30/70 options! [SOLUTIONS:177]
+Depth: 7 --> 0/30 options! [SOLUTIONS:207]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Totem Golem[43]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Silver Hand Regent[32]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:2
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 16 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 1/3 options! [SOLUTIONS:3]
+Depth: 3 --> 0/1 options! [SOLUTIONS:4]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 14/19 options! [SOLUTIONS:6]
+Depth: 3 --> 21/35 options! [SOLUTIONS:20]
+Depth: 4 --> 14/35 options! [SOLUTIONS:41]
+Depth: 5 --> 4/18 options! [SOLUTIONS:55]
+Depth: 6 --> 0/4 options! [SOLUTIONS:59]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[43]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:2
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 8 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 3/8 options! [SOLUTIONS:6]
+Depth: 3 --> 1/4 options! [SOLUTIONS:9]
+Depth: 4 --> 0/1 options! [SOLUTIONS:10]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Tol'vir Warden[22]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 30/31 options! [SOLUTIONS:1]
+Depth: 2 --> 40/266 options! [SOLUTIONS:33]
+Depth: 3 --> 40/153 options! [SOLUTIONS:73]
+Depth: 4 --> 38/78 options! [SOLUTIONS:113]
+Depth: 5 --> 4/42 options! [SOLUTIONS:151]
+Depth: 6 --> 0/4 options! [SOLUTIONS:155]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[43]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:27 time taken to execute completely (hh:mm:ss): 00:00:05
+ 
+Swapped Snowchugger with Forgotten Torch
+ 
+Printing Deck 3
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Timber Wolf
+Wisps of the Old Gods
+Twilight Guardian
+Cogmaster's Wrench
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sludge Belcher
+Naturalize
+Redemption
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Player1: Mulligan 25
+Player2: Mulligan 67
+here:3
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 1/2 options! [SOLUTIONS:2]
+Depth: 3 --> 0/1 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Molten Blade[27]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 6/8 options! [SOLUTIONS:3]
+Depth: 3 --> 3/9 options! [SOLUTIONS:9]
+Depth: 4 --> 0/3 options! [SOLUTIONS:12]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[62]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:3
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 29 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 0/1 options! [SOLUTIONS:2]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 31/39 options! [SOLUTIONS:9]
+Depth: 3 --> 40/81 options! [SOLUTIONS:40]
+Depth: 4 --> 27/67 options! [SOLUTIONS:80]
+Depth: 5 --> 4/31 options! [SOLUTIONS:107]
+Depth: 6 --> 0/4 options! [SOLUTIONS:111]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[1]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[62]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:3
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 23 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Bloodfen Raptor[9]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 35/43 options! [SOLUTIONS:9]
+Depth: 3 --> 40/121 options! [SOLUTIONS:44]
+Depth: 4 --> 40/98 options! [SOLUTIONS:84]
+Depth: 5 --> 40/81 options! [SOLUTIONS:124]
+Depth: 6 --> 16/56 options! [SOLUTIONS:164]
+Depth: 7 --> 0/16 options! [SOLUTIONS:180]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[54]'(WEAPON)
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[62]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Bloodfen Raptor[9]'
+EndTurnTask => [RehHausZuckFuchs]
+here:3
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 15 / Hero[P2]: 26
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 6/9 options! [SOLUTIONS:4]
+Depth: 3 --> 0/6 options! [SOLUTIONS:10]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Greater Healing Potion[38]'(SPELL) 'Garrosh Hellscream[4]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 16/22 options! [SOLUTIONS:7]
+Depth: 3 --> 26/42 options! [SOLUTIONS:23]
+Depth: 4 --> 24/50 options! [SOLUTIONS:49]
+Depth: 5 --> 8/32 options! [SOLUTIONS:73]
+Depth: 6 --> 0/8 options! [SOLUTIONS:81]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[62]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:3
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 18 / Hero[P2]: 26
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 11/20 options! [SOLUTIONS:10]
+Depth: 3 --> 24/35 options! [SOLUTIONS:21]
+Depth: 4 --> 0/24 options! [SOLUTIONS:45]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Powermace[28]'(WEAPON)
+PlayCardTask => [FitzVonGerald] play 'Timber Wolf[11]'(MINION) to Pos[0]
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 40/42 options! [SOLUTIONS:1]
+Depth: 2 --> 40/360 options! [SOLUTIONS:41]
+Depth: 3 --> 40/143 options! [SOLUTIONS:81]
+Depth: 4 --> 40/88 options! [SOLUTIONS:121]
+Depth: 5 --> 17/57 options! [SOLUTIONS:161]
+Depth: 6 --> 0/17 options! [SOLUTIONS:178]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Azure Drake[67]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[62]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Timber Wolf[11]'
+EndTurnTask => [RehHausZuckFuchs]
+here:3
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 9 / Hero[P2]: 22
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 18/19 options! [SOLUTIONS:1]
+Depth: 2 --> 40/135 options! [SOLUTIONS:19]
+Depth: 3 --> 0/40 options! [SOLUTIONS:59]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Dark Arakkoa[37]'(MINION) to Pos[0]
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 34/35 options! [SOLUTIONS:1]
+Depth: 2 --> 40/629 options! [SOLUTIONS:36]
+Depth: 3 --> 40/189 options! [SOLUTIONS:76]
+Depth: 4 --> 40/147 options! [SOLUTIONS:119]
+Depth: 5 --> 39/94 options! [SOLUTIONS:174]
+Depth: 6 --> 11/63 options! [SOLUTIONS:226]
+Depth: 7 --> 0/15 options! [SOLUTIONS:241]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[52]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Bolt[51]'(SPELL) 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:19 time taken to execute completely (hh:mm:ss): 00:00:08
+ 
+Swapped Timber Wolf with Darkshire Librarian
+ 
+Printing Deck 4
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Wisps of the Old Gods
+Twilight Guardian
+Cogmaster's Wrench
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sludge Belcher
+Naturalize
+Redemption
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Player1: Mulligan 17,36
+Player2: Mulligan 69,53
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 5/7 options! [SOLUTIONS:3]
+Depth: 3 --> 3/8 options! [SOLUTIONS:8]
+Depth: 4 --> 0/3 options! [SOLUTIONS:11]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[63]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 29 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 28/36 options! [SOLUTIONS:9]
+Depth: 3 --> 40/68 options! [SOLUTIONS:37]
+Depth: 4 --> 24/64 options! [SOLUTIONS:77]
+Depth: 5 --> 4/28 options! [SOLUTIONS:101]
+Depth: 6 --> 0/4 options! [SOLUTIONS:105]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[55]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 23 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 0/4 options! [SOLUTIONS:5]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 11/12 options! [SOLUTIONS:1]
+Depth: 2 --> 40/63 options! [SOLUTIONS:12]
+Depth: 3 --> 40/142 options! [SOLUTIONS:52]
+Depth: 4 --> 40/112 options! [SOLUTIONS:92]
+Depth: 5 --> 34/74 options! [SOLUTIONS:132]
+Depth: 6 --> 11/45 options! [SOLUTIONS:166]
+Depth: 7 --> 0/11 options! [SOLUTIONS:177]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Totem Golem[42]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 18 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 4/10 options! [SOLUTIONS:7]
+Depth: 3 --> 0/4 options! [SOLUTIONS:11]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Greater Healing Potion[37]'(SPELL) 'Garrosh Hellscream[4]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 32/40 options! [SOLUTIONS:9]
+Depth: 3 --> 40/106 options! [SOLUTIONS:41]
+Depth: 4 --> 40/97 options! [SOLUTIONS:81]
+Depth: 5 --> 33/73 options! [SOLUTIONS:121]
+Depth: 6 --> 13/46 options! [SOLUTIONS:154]
+Depth: 7 --> 0/13 options! [SOLUTIONS:167]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 22 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 14/15 options! [SOLUTIONS:1]
+Depth: 2 --> 5/19 options! [SOLUTIONS:15]
+Depth: 3 --> 0/5 options! [SOLUTIONS:20]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Cobalt Guardian[35]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 35/36 options! [SOLUTIONS:1]
+Depth: 2 --> 40/430 options! [SOLUTIONS:36]
+Depth: 3 --> 40/232 options! [SOLUTIONS:76]
+Depth: 4 --> 40/180 options! [SOLUTIONS:116]
+Depth: 5 --> 40/139 options! [SOLUTIONS:156]
+Depth: 6 --> 40/92 options! [SOLUTIONS:196]
+Depth: 7 --> 24/64 options! [SOLUTIONS:236]
+Depth: 8 --> 0/24 options! [SOLUTIONS:260]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Cobalt Guardian[35]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[72]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 10 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 16/17 options! [SOLUTIONS:1]
+Depth: 2 --> 19/35 options! [SOLUTIONS:17]
+Depth: 3 --> 5/24 options! [SOLUTIONS:36]
+Depth: 4 --> 0/5 options! [SOLUTIONS:41]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Dark Arakkoa[36]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 26/27 options! [SOLUTIONS:1]
+Depth: 2 --> 40/222 options! [SOLUTIONS:27]
+Depth: 3 --> 40/252 options! [SOLUTIONS:67]
+Depth: 4 --> 40/190 options! [SOLUTIONS:107]
+Depth: 5 --> 40/160 options! [SOLUTIONS:147]
+Depth: 6 --> 40/119 options! [SOLUTIONS:187]
+Depth: 7 --> 29/69 options! [SOLUTIONS:227]
+Depth: 8 --> 8/37 options! [SOLUTIONS:256]
+Depth: 9 --> 0/8 options! [SOLUTIONS:264]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Storm[50]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Spirit Claws[47]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Dark Arakkoa[36]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Dark Arakkoa[36]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[72]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[76]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 10 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 20/21 options! [SOLUTIONS:1]
+Depth: 2 --> 40/167 options! [SOLUTIONS:21]
+Depth: 3 --> 40/115 options! [SOLUTIONS:61]
+Depth: 4 --> 0/40 options! [SOLUTIONS:101]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Hallazeal the Ascended[17]'(MINION) to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Dark Arakkoa[36]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 19/20 options! [SOLUTIONS:1]
+Depth: 2 --> 40/128 options! [SOLUTIONS:20]
+Depth: 3 --> 40/256 options! [SOLUTIONS:60]
+Depth: 4 --> 40/133 options! [SOLUTIONS:100]
+Depth: 5 --> 32/72 options! [SOLUTIONS:140]
+Depth: 6 --> 0/32 options! [SOLUTIONS:172]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Azure Drake[67]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Dark Arakkoa[36]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[72]'(MINION) attack 'Hallazeal the Ascended[17]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[76]'(MINION) attack 'Hallazeal the Ascended[17]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Hallazeal the Ascended[17]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 10 / Hero[P2]: 21
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 40/52 options! [SOLUTIONS:9]
+Depth: 3 --> 40/138 options! [SOLUTIONS:49]
+Depth: 4 --> 7/47 options! [SOLUTIONS:89]
+Depth: 5 --> 0/7 options! [SOLUTIONS:96]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Flame Lance[28]'(SPELL) 'Azure Drake[67]'
+PlayCardTask => [FitzVonGerald] play 'Darkshire Librarian[39]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 40/67 options! [SOLUTIONS:10]
+Depth: 3 --> 40/253 options! [SOLUTIONS:50]
+Depth: 4 --> 40/142 options! [SOLUTIONS:90]
+Depth: 5 --> 28/68 options! [SOLUTIONS:130]
+Depth: 6 --> 0/28 options! [SOLUTIONS:158]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[45]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Maelstrom Portal[49]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[1]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[78]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Darkshire Librarian[39]'
+EndTurnTask => [RehHausZuckFuchs]
+here:4
+Player1: PLAYING / Player2: PLAYING - ROUND 9 - FitzVonGerald
+Hero[P1]: 10 / Hero[P2]: 18
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 40/57 options! [SOLUTIONS:10]
+Depth: 3 --> 40/100 options! [SOLUTIONS:50]
+Depth: 4 --> 18/58 options! [SOLUTIONS:90]
+Depth: 5 --> 0/18 options! [SOLUTIONS:108]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Grievous Bite[8]'(SPELL) 'Thing from Below[45]'
+PlayCardTask => [FitzVonGerald] play 'Chillwind Yeti[31]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'Faerie Dragon[10]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 20/21 options! [SOLUTIONS:1]
+Depth: 2 --> 40/188 options! [SOLUTIONS:22]
+Depth: 3 --> 40/168 options! [SOLUTIONS:64]
+Depth: 4 --> 40/84 options! [SOLUTIONS:107]
+Depth: 5 --> 0/40 options! [SOLUTIONS:147]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Thing from Below[45]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Argent Squire[78]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:18 time taken to execute completely (hh:mm:ss): 00:00:17
+ 
+Swapped Twilight Guardian with Kazakus
+ 
+Printing Deck 5
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Wisps of the Old Gods
+Cogmaster's Wrench
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sludge Belcher
+Naturalize
+Redemption
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Player1: Mulligan 27,11
+Player2: Mulligan 57,65
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 2/3 options! [SOLUTIONS:2]
+Depth: 3 --> 1/3 options! [SOLUTIONS:4]
+Depth: 4 --> 0/1 options! [SOLUTIONS:5]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[54]'(WEAPON)
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Bloodfen Raptor[9]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 4/8 options! [SOLUTIONS:5]
+Depth: 3 --> 0/4 options! [SOLUTIONS:9]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Bloodfen Raptor[9]'
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 27 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 4/6 options! [SOLUTIONS:3]
+Depth: 3 --> 0/4 options! [SOLUTIONS:7]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Pterrordax Hatchling[28]'(MINION) to Pos[0]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 0/3 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 73 to pick
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 6/10 options! [SOLUTIONS:5]
+Depth: 3 --> 0/6 options! [SOLUTIONS:11]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Storm[50]'(SPELL)
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 26 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 5/8 options! [SOLUTIONS:4]
+Depth: 3 --> 4/9 options! [SOLUTIONS:9]
+Depth: 4 --> 0/4 options! [SOLUTIONS:13]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Leper Gnome[21]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'Powermace[26]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 3/6 options! [SOLUTIONS:4]
+Depth: 3 --> 0/3 options! [SOLUTIONS:7]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Leper Gnome[21]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 26 / Hero[P2]: 22
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 9/15 options! [SOLUTIONS:7]
+Depth: 3 --> 0/9 options! [SOLUTIONS:16]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Hallazeal the Ascended[16]'(MINION) to Pos[0]
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 11/12 options! [SOLUTIONS:1]
+Depth: 2 --> 11/22 options! [SOLUTIONS:12]
+Depth: 3 --> 16/27 options! [SOLUTIONS:23]
+Depth: 4 --> 0/16 options! [SOLUTIONS:39]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Barnes[65]'(MINION) to Pos[1]
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 26 / Hero[P2]: 19
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 16/24 options! [SOLUTIONS:9]
+Depth: 3 --> 19/35 options! [SOLUTIONS:25]
+Depth: 4 --> 19/38 options! [SOLUTIONS:44]
+Depth: 5 --> 0/19 options! [SOLUTIONS:63]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Flame Lance[27]'(SPELL) 'Al'Akir the Windlord[79]'
+PlayCardTask => [FitzVonGerald] play 'Molten Blade[25]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Al'Akir the Windlord[79]'
+MinionAttackTask => [FitzVonGerald] 'Hallazeal the Ascended[16]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 20/21 options! [SOLUTIONS:1]
+Depth: 2 --> 40/155 options! [SOLUTIONS:21]
+Depth: 3 --> 40/130 options! [SOLUTIONS:61]
+Depth: 4 --> 22/62 options! [SOLUTIONS:101]
+Depth: 5 --> 0/22 options! [SOLUTIONS:123]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Hex[57]'(SPELL) 'Hallazeal the Ascended[16]'
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[1]
+MinionAttackTask => [RehHausZuckFuchs] 'Healing Totem[78]'(MINION) attack 'Frog[80]'
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 20 / Hero[P2]: 15
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 8/13 options! [SOLUTIONS:6]
+Depth: 3 --> 6/14 options! [SOLUTIONS:14]
+Depth: 4 --> 0/6 options! [SOLUTIONS:20]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'King's Defender[17]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 23/24 options! [SOLUTIONS:1]
+Depth: 2 --> 40/272 options! [SOLUTIONS:24]
+Depth: 3 --> 40/179 options! [SOLUTIONS:64]
+Depth: 4 --> 40/103 options! [SOLUTIONS:104]
+Depth: 5 --> 25/65 options! [SOLUTIONS:144]
+Depth: 6 --> 0/25 options! [SOLUTIONS:169]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[63]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 16 / Hero[P2]: 12
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 12/13 options! [SOLUTIONS:1]
+Depth: 2 --> 40/67 options! [SOLUTIONS:13]
+Depth: 3 --> 40/147 options! [SOLUTIONS:53]
+Depth: 4 --> 40/126 options! [SOLUTIONS:91]
+Depth: 5 --> 0/33 options! [SOLUTIONS:124]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Wisps of the Old Gods[11]'(SPELL) Option 1
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 40/91 options! [SOLUTIONS:1]
+Depth: 2 --> 40/1828 options! [SOLUTIONS:41]
+Depth: 3 --> 40/448 options! [SOLUTIONS:81]
+Depth: 4 --> 40/970 options! [SOLUTIONS:121]
+Depth: 5 --> 40/692 options! [SOLUTIONS:161]
+Depth: 6 --> 40/386 options! [SOLUTIONS:201]
+Depth: 7 --> 40/172 options! [SOLUTIONS:241]
+Depth: 8 --> 0/40 options! [SOLUTIONS:281]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Hex[56]'(SPELL) 'Wisp[82]'
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[52]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Frog[89]'
+MinionAttackTask => [RehHausZuckFuchs] 'Healing Totem[78]'(MINION) attack 'Wisp[83]'
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Wisp[84]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[81]'(MINION) attack 'Wisp[85]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:5
+Player1: PLAYING / Player2: PLAYING - ROUND 9 - FitzVonGerald
+Hero[P1]: 11 / Hero[P2]: 9
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 28/29 options! [SOLUTIONS:1]
+Depth: 2 --> 40/459 options! [SOLUTIONS:29]
+Depth: 3 --> 40/789 options! [SOLUTIONS:69]
+Depth: 4 --> 40/785 options! [SOLUTIONS:109]
+Depth: 5 --> 40/460 options! [SOLUTIONS:149]
+Depth: 6 --> 40/197 options! [SOLUTIONS:189]
+Depth: 7 --> 0/40 options! [SOLUTIONS:229]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Devour Mind[18]'(SPELL)
+PlayCardTask => [FitzVonGerald] play 'Embrace the Shadow[15]'(SPELL)
+PlayCardTask => [FitzVonGerald] play 'Maelstrom Portal[91]'(SPELL)
+MinionAttackTask => [FitzVonGerald] 'Wisp[86]'(MINION) attack 'Healing Totem[78]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[87]'(MINION) attack 'Thrall[6]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[88]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 18/19 options! [SOLUTIONS:1]
+Depth: 2 --> 40/329 options! [SOLUTIONS:19]
+Depth: 3 --> 40/415 options! [SOLUTIONS:59]
+Depth: 4 --> 40/280 options! [SOLUTIONS:99]
+Depth: 5 --> 40/198 options! [SOLUTIONS:139]
+Depth: 6 --> 40/107 options! [SOLUTIONS:179]
+Depth: 7 --> 28/68 options! [SOLUTIONS:219]
+Depth: 8 --> 1/35 options! [SOLUTIONS:253]
+Depth: 9 --> 0/1 options! [SOLUTIONS:254]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Wisp[87]'
+PlayCardTask => [RehHausZuckFuchs] play 'Aya Blackpaw[68]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Healing Totem[78]'(MINION) attack 'Wisp[88]'
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[62]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[81]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[90]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:7 time taken to execute completely (hh:mm:ss): 00:00:37
+ 
+Swapped Redemption with Smuggler's Run
+ 
+Printing Deck 6
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Wisps of the Old Gods
+Cogmaster's Wrench
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sludge Belcher
+Naturalize
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Smuggler's Run
+Player1: Mulligan 38,23,30
+Player2: Mulligan 45,57
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 2/3 options! [SOLUTIONS:2]
+Depth: 3 --> 0/2 options! [SOLUTIONS:4]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[59]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 4/9 options! [SOLUTIONS:6]
+Depth: 3 --> 0/4 options! [SOLUTIONS:10]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 10/11 options! [SOLUTIONS:1]
+Depth: 2 --> 40/70 options! [SOLUTIONS:11]
+Depth: 3 --> 40/121 options! [SOLUTIONS:51]
+Depth: 4 --> 34/74 options! [SOLUTIONS:91]
+Depth: 5 --> 12/46 options! [SOLUTIONS:125]
+Depth: 6 --> 0/12 options! [SOLUTIONS:137]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Patches the Pirate[61]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[62]'(MINION) to Pos[3]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 21 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 4/7 options! [SOLUTIONS:4]
+Depth: 3 --> 9/10 options! [SOLUTIONS:5]
+Depth: 4 --> 27/27 options! [SOLUTIONS:5]
+Depth: 5 --> 0/27 options! [SOLUTIONS:32]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Chillwind Yeti[30]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 21/22 options! [SOLUTIONS:1]
+Depth: 2 --> 40/183 options! [SOLUTIONS:22]
+Depth: 3 --> 40/166 options! [SOLUTIONS:62]
+Depth: 4 --> 40/87 options! [SOLUTIONS:102]
+Depth: 5 --> 18/58 options! [SOLUTIONS:142]
+Depth: 6 --> 0/18 options! [SOLUTIONS:160]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[45]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Chillwind Yeti[30]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[62]'(MINION) attack 'Chillwind Yeti[30]'
+EndTurnTask => [RehHausZuckFuchs]
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 17 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 4/11 options! [SOLUTIONS:8]
+Depth: 3 --> 9/10 options! [SOLUTIONS:9]
+Depth: 4 --> 27/27 options! [SOLUTIONS:9]
+Depth: 5 --> 14/41 options! [SOLUTIONS:36]
+Depth: 6 --> 0/14 options! [SOLUTIONS:50]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Flame Lance[27]'(SPELL) 'Thing from Below[45]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 10/11 options! [SOLUTIONS:1]
+Depth: 2 --> 30/40 options! [SOLUTIONS:11]
+Depth: 3 --> 40/72 options! [SOLUTIONS:41]
+Depth: 4 --> 25/65 options! [SOLUTIONS:81]
+Depth: 5 --> 1/26 options! [SOLUTIONS:106]
+Depth: 6 --> 0/1 options! [SOLUTIONS:107]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Barnes[65]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 13 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 7/8 options! [SOLUTIONS:1]
+Depth: 2 --> 7/13 options! [SOLUTIONS:7]
+Depth: 3 --> 15/17 options! [SOLUTIONS:9]
+Depth: 4 --> 40/45 options! [SOLUTIONS:9]
+Depth: 5 --> 40/141 options! [SOLUTIONS:36]
+Depth: 6 --> 0/40 options! [SOLUTIONS:76]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Kazakus[38]'(MINION) to Pos[0]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/9 options! [SOLUTIONS:0]
+Depth: 3 --> 27/27 options! [SOLUTIONS:0]
+Depth: 4 --> 40/96 options! [SOLUTIONS:27]
+Depth: 5 --> 0/40 options! [SOLUTIONS:67]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 72 to pick
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/9 options! [SOLUTIONS:0]
+Depth: 3 --> 40/54 options! [SOLUTIONS:9]
+Depth: 4 --> 0/40 options! [SOLUTIONS:49]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 77 to pick
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 27/30 options! [SOLUTIONS:3]
+Depth: 3 --> 0/27 options! [SOLUTIONS:30]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 78 to pick
+PlayCardTask => [FitzVonGerald] play 'Lesser Potion[81]'(SPELL) 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 22/23 options! [SOLUTIONS:1]
+Depth: 2 --> 40/289 options! [SOLUTIONS:23]
+Depth: 3 --> 40/303 options! [SOLUTIONS:63]
+Depth: 4 --> 40/152 options! [SOLUTIONS:103]
+Depth: 5 --> 40/91 options! [SOLUTIONS:143]
+Depth: 6 --> 21/61 options! [SOLUTIONS:183]
+Depth: 7 --> 0/21 options! [SOLUTIONS:204]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Storm[50]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Maelstrom Portal[49]'(SPELL)
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Azure Drake[71]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:6
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 1 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 24/32 options! [SOLUTIONS:9]
+Depth: 3 --> 3/32 options! [SOLUTIONS:33]
+Depth: 4 --> 0/3 options! [SOLUTIONS:36]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Devour Mind[18]'(SPELL)
+PlayCardTask => [FitzVonGerald] play 'Jade Claws[85]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 13/19 options! [SOLUTIONS:6]
+Depth: 2 --> 40/133 options! [SOLUTIONS:75]
+Depth: 3 --> 0/190 options! [SOLUTIONS:265]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:27 time taken to execute completely (hh:mm:ss): 00:00:08
+ 
+Swapped Smuggler's Run with Seal of Champions
+ 
+Printing Deck 7
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Wisps of the Old Gods
+Cogmaster's Wrench
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Sludge Belcher
+Naturalize
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Seal of Champions
+Player1: Mulligan 
+Player2: Mulligan 
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 3/4 options! [SOLUTIONS:2]
+Depth: 3 --> 1/4 options! [SOLUTIONS:5]
+Depth: 4 --> 0/1 options! [SOLUTIONS:6]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 3/7 options! [SOLUTIONS:5]
+Depth: 3 --> 0/3 options! [SOLUTIONS:8]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[59]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 2/5 options! [SOLUTIONS:4]
+Depth: 3 --> 0/2 options! [SOLUTIONS:6]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 8/12 options! [SOLUTIONS:5]
+Depth: 3 --> 7/15 options! [SOLUTIONS:13]
+Depth: 4 --> 1/8 options! [SOLUTIONS:20]
+Depth: 5 --> 0/1 options! [SOLUTIONS:21]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 24 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 10/16 options! [SOLUTIONS:7]
+Depth: 3 --> 14/24 options! [SOLUTIONS:17]
+Depth: 4 --> 0/14 options! [SOLUTIONS:31]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Cogmaster's Wrench[14]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 17/18 options! [SOLUTIONS:1]
+Depth: 2 --> 40/76 options! [SOLUTIONS:18]
+Depth: 3 --> 40/98 options! [SOLUTIONS:58]
+Depth: 4 --> 32/72 options! [SOLUTIONS:98]
+Depth: 5 --> 18/50 options! [SOLUTIONS:130]
+Depth: 6 --> 4/22 options! [SOLUTIONS:148]
+Depth: 7 --> 0/4 options! [SOLUTIONS:152]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Barnes[65]'(MINION) to Pos[2]
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[59]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 20 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 19/20 options! [SOLUTIONS:1]
+Depth: 2 --> 40/129 options! [SOLUTIONS:20]
+Depth: 3 --> 40/105 options! [SOLUTIONS:60]
+Depth: 4 --> 0/40 options! [SOLUTIONS:100]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Naturalize[32]'(SPELL) 'Flametongue Totem[59]'
+PlayCardTask => [FitzVonGerald] play 'Chillwind Yeti[30]'(MINION) to Pos[0]
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 24/25 options! [SOLUTIONS:1]
+Depth: 2 --> 40/275 options! [SOLUTIONS:25]
+Depth: 3 --> 40/159 options! [SOLUTIONS:65]
+Depth: 4 --> 40/92 options! [SOLUTIONS:105]
+Depth: 5 --> 11/51 options! [SOLUTIONS:145]
+Depth: 6 --> 0/11 options! [SOLUTIONS:156]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[40]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Chillwind Yeti[30]'
+MinionAttackTask => [RehHausZuckFuchs] 'Wrath of Air Totem[73]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Bloodmage Thalnos[75]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 11 / Hero[P2]: 28
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 20/21 options! [SOLUTIONS:1]
+Depth: 2 --> 40/133 options! [SOLUTIONS:21]
+Depth: 3 --> 0/40 options! [SOLUTIONS:61]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Captain Greenskin[20]'(MINION) to Pos[0]
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 23/24 options! [SOLUTIONS:1]
+Depth: 2 --> 40/231 options! [SOLUTIONS:24]
+Depth: 3 --> 40/276 options! [SOLUTIONS:64]
+Depth: 4 --> 40/190 options! [SOLUTIONS:104]
+Depth: 5 --> 40/116 options! [SOLUTIONS:144]
+Depth: 6 --> 28/68 options! [SOLUTIONS:184]
+Depth: 7 --> 5/33 options! [SOLUTIONS:212]
+Depth: 8 --> 0/5 options! [SOLUTIONS:217]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Spirit Claws[46]'(WEAPON)
+PlayCardTask => [RehHausZuckFuchs] play 'Hex[57]'(SPELL) 'Captain Greenskin[20]'
+MinionAttackTask => [RehHausZuckFuchs] 'Bloodmage Thalnos[75]'(MINION) attack 'Frog[77]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Wrath of Air Totem[73]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[76]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:7
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 2 / Hero[P2]: 26
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 20/23 options! [SOLUTIONS:1]
+Depth: 2 --> 40/172 options! [SOLUTIONS:21]
+Depth: 3 --> 40/163 options! [SOLUTIONS:61]
+Depth: 4 --> 0/40 options! [SOLUTIONS:101]
+- Player 1 - <FitzVonGerald> ---------------------------
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 16/20 options! [SOLUTIONS:4]
+Depth: 2 --> 40/116 options! [SOLUTIONS:63]
+Depth: 3 --> 40/188 options! [SOLUTIONS:209]
+Depth: 4 --> 1/144 options! [SOLUTIONS:352]
+Depth: 5 --> 0/5 options! [SOLUTIONS:357]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:24 time taken to execute completely (hh:mm:ss): 00:00:09
+ 
+Swapped Sludge Belcher with Argent Protector
+ 
+Printing Deck 8
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Wisps of the Old Gods
+Cogmaster's Wrench
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Naturalize
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Seal of Champions
+Argent Protector
+Player1: Mulligan 18,27,32
+Player2: Mulligan 66,57,60
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 3/5 options! [SOLUTIONS:3]
+Depth: 3 --> 0/3 options! [SOLUTIONS:6]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[40]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 0/1 options! [SOLUTIONS:2]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 10/14 options! [SOLUTIONS:5]
+Depth: 3 --> 12/22 options! [SOLUTIONS:15]
+Depth: 4 --> 4/16 options! [SOLUTIONS:27]
+Depth: 5 --> 0/4 options! [SOLUTIONS:31]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[55]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 26 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 3/7 options! [SOLUTIONS:5]
+Depth: 3 --> 0/3 options! [SOLUTIONS:8]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Bloodfen Raptor[9]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 40/50 options! [SOLUTIONS:10]
+Depth: 3 --> 40/153 options! [SOLUTIONS:50]
+Depth: 4 --> 40/116 options! [SOLUTIONS:90]
+Depth: 5 --> 34/74 options! [SOLUTIONS:130]
+Depth: 6 --> 0/34 options! [SOLUTIONS:164]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[54]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Bloodfen Raptor[9]'
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 22 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 3/7 options! [SOLUTIONS:5]
+Depth: 3 --> 0/3 options! [SOLUTIONS:8]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Pterrordax Hatchling[28]'(MINION) to Pos[0]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 0/3 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 74 to pick
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 34/43 options! [SOLUTIONS:10]
+Depth: 3 --> 40/109 options! [SOLUTIONS:44]
+Depth: 4 --> 40/100 options! [SOLUTIONS:84]
+Depth: 5 --> 22/62 options! [SOLUTIONS:124]
+Depth: 6 --> 0/22 options! [SOLUTIONS:146]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[72]'(MINION) attack 'Pterrordax Hatchling[28]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 16 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 10/11 options! [SOLUTIONS:1]
+Depth: 2 --> 3/13 options! [SOLUTIONS:11]
+Depth: 3 --> 0/3 options! [SOLUTIONS:14]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Greater Healing Potion[34]'(SPELL) 'Garrosh Hellscream[4]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 24/25 options! [SOLUTIONS:1]
+Depth: 2 --> 40/106 options! [SOLUTIONS:25]
+Depth: 3 --> 35/75 options! [SOLUTIONS:65]
+Depth: 4 --> 10/45 options! [SOLUTIONS:100]
+Depth: 5 --> 0/10 options! [SOLUTIONS:110]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[45]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[76]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 23 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 13/14 options! [SOLUTIONS:1]
+Depth: 2 --> 6/19 options! [SOLUTIONS:14]
+Depth: 3 --> 0/6 options! [SOLUTIONS:20]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Flame Lance[27]'(SPELL) 'Thing from Below[45]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 20/21 options! [SOLUTIONS:1]
+Depth: 2 --> 40/194 options! [SOLUTIONS:21]
+Depth: 3 --> 40/146 options! [SOLUTIONS:61]
+Depth: 4 --> 40/98 options! [SOLUTIONS:101]
+Depth: 5 --> 27/67 options! [SOLUTIONS:141]
+Depth: 6 --> 7/34 options! [SOLUTIONS:168]
+Depth: 7 --> 0/7 options! [SOLUTIONS:175]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Azure Drake[66]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[62]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[76]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 17 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 19/20 options! [SOLUTIONS:1]
+Depth: 2 --> 40/90 options! [SOLUTIONS:20]
+Depth: 3 --> 0/40 options! [SOLUTIONS:60]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Forgotten Torch[35]'(SPELL) 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 36/37 options! [SOLUTIONS:1]
+Depth: 2 --> 40/653 options! [SOLUTIONS:37]
+Depth: 3 --> 40/430 options! [SOLUTIONS:77]
+Depth: 4 --> 40/226 options! [SOLUTIONS:117]
+Depth: 5 --> 40/110 options! [SOLUTIONS:157]
+Depth: 6 --> 40/80 options! [SOLUTIONS:197]
+Depth: 7 --> 20/60 options! [SOLUTIONS:237]
+Depth: 8 --> 4/24 options! [SOLUTIONS:257]
+Depth: 9 --> 0/4 options! [SOLUTIONS:261]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Hex[57]'(SPELL) 'Small-Time Buccaneer[62]'
+PlayCardTask => [RehHausZuckFuchs] play 'Totem Golem[43]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Bolt[51]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Azure Drake[66]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[76]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:8
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 1 / Hero[P2]: 24
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 13/14 options! [SOLUTIONS:1]
+Depth: 2 --> 40/60 options! [SOLUTIONS:14]
+Depth: 3 --> 1/41 options! [SOLUTIONS:54]
+Depth: 4 --> 0/1 options! [SOLUTIONS:55]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Cobalt Guardian[32]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'Seal of Champions[38]'(SPELL) 'Cobalt Guardian[32]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 15/23 options! [SOLUTIONS:8]
+Depth: 2 --> 40/329 options! [SOLUTIONS:107]
+Depth: 3 --> 40/565 options! [SOLUTIONS:350]
+Depth: 4 --> 40/432 options! [SOLUTIONS:575]
+Depth: 5 --> 40/281 options! [SOLUTIONS:775]
+Depth: 6 --> 40/220 options! [SOLUTIONS:935]
+Depth: 7 --> 0/120 options! [SOLUTIONS:1055]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[52]'(SPELL) 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:24 time taken to execute completely (hh:mm:ss): 00:00:17
+ 
+Swapped Cogmaster's Wrench with Injured Blademaster
+ 
+Printing Deck 9
+Grievous Bite
+Bloodfen Raptor
+Faerie Dragon
+Wisps of the Old Gods
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Naturalize
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Seal of Champions
+Argent Protector
+Injured Blademaster
+Player1: Mulligan 29,19
+Player2: Mulligan 44
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 1/2 options! [SOLUTIONS:2]
+Depth: 3 --> 0/1 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Molten Blade[24]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 4/6 options! [SOLUTIONS:3]
+Depth: 3 --> 0/4 options! [SOLUTIONS:7]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[41]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Bloodfen Raptor[9]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 19/25 options! [SOLUTIONS:7]
+Depth: 3 --> 21/40 options! [SOLUTIONS:26]
+Depth: 4 --> 0/21 options! [SOLUTIONS:47]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Bloodfen Raptor[9]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 0/1 options! [SOLUTIONS:2]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 6/8 options! [SOLUTIONS:3]
+Depth: 3 --> 0/6 options! [SOLUTIONS:9]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 26 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 0/3 options! [SOLUTIONS:4]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Greater Healing Potion[33]'(SPELL) 'Garrosh Hellscream[4]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 11/20 options! [SOLUTIONS:10]
+Depth: 3 --> 0/11 options! [SOLUTIONS:21]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[52]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 23 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 0/4 options! [SOLUTIONS:5]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Captain Greenskin[19]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 14/15 options! [SOLUTIONS:1]
+Depth: 2 --> 40/72 options! [SOLUTIONS:15]
+Depth: 3 --> 40/99 options! [SOLUTIONS:55]
+Depth: 4 --> 11/51 options! [SOLUTIONS:95]
+Depth: 5 --> 0/11 options! [SOLUTIONS:106]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Storm[50]'(SPELL)
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[71]'(MINION) attack 'Captain Greenskin[19]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[72]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 19 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 5/9 options! [SOLUTIONS:5]
+Depth: 3 --> 6/10 options! [SOLUTIONS:9]
+Depth: 4 --> 0/6 options! [SOLUTIONS:15]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Dark Arakkoa[32]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 14/15 options! [SOLUTIONS:1]
+Depth: 2 --> 21/35 options! [SOLUTIONS:15]
+Depth: 3 --> 16/37 options! [SOLUTIONS:36]
+Depth: 4 --> 4/20 options! [SOLUTIONS:52]
+Depth: 5 --> 0/4 options! [SOLUTIONS:56]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Barnes[65]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[72]'(MINION) attack 'Dark Arakkoa[32]'
+MinionAttackTask => [RehHausZuckFuchs] 'Wrath of Air Totem[75]'(MINION) attack 'Dark Arakkoa[32]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 19 / Hero[P2]: 29
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 19/20 options! [SOLUTIONS:1]
+Depth: 2 --> 40/135 options! [SOLUTIONS:18]
+Depth: 3 --> 40/148 options! [SOLUTIONS:52]
+Depth: 4 --> 40/87 options! [SOLUTIONS:91]
+Depth: 5 --> 0/40 options! [SOLUTIONS:131]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Chillwind Yeti[29]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'Seal of Champions[37]'(SPELL) 'Dark Arakkoa[32]'
+MinionAttackTask => [FitzVonGerald] 'Dark Arakkoa[32]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 25/26 options! [SOLUTIONS:1]
+Depth: 2 --> 40/245 options! [SOLUTIONS:26]
+Depth: 3 --> 40/182 options! [SOLUTIONS:66]
+Depth: 4 --> 40/118 options! [SOLUTIONS:106]
+Depth: 5 --> 40/120 options! [SOLUTIONS:146]
+Depth: 6 --> 0/40 options! [SOLUTIONS:186]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[44]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Bloodmage Thalnos[64]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[78]'(MINION) attack 'Dark Arakkoa[32]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Dark Arakkoa[32]'
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Chillwind Yeti[29]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 19 / Hero[P2]: 21
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 9/14 options! [SOLUTIONS:6]
+Depth: 3 --> 18/24 options! [SOLUTIONS:12]
+Depth: 4 --> 0/18 options! [SOLUTIONS:30]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Wisps of the Old Gods[11]'(SPELL) Option 1
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 39/40 options! [SOLUTIONS:1]
+Depth: 2 --> 40/666 options! [SOLUTIONS:40]
+Depth: 3 --> 40/246 options! [SOLUTIONS:80]
+Depth: 4 --> 40/256 options! [SOLUTIONS:120]
+Depth: 5 --> 40/155 options! [SOLUTIONS:160]
+Depth: 6 --> 36/76 options! [SOLUTIONS:200]
+Depth: 7 --> 0/36 options! [SOLUTIONS:236]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Ragnaros the Firelord[69]'(MINION) to Pos[3]
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 9 - FitzVonGerald
+Hero[P1]: 19 / Hero[P2]: 21
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 23/24 options! [SOLUTIONS:1]
+Depth: 2 --> 40/224 options! [SOLUTIONS:17]
+Depth: 3 --> 40/459 options! [SOLUTIONS:57]
+Depth: 4 --> 40/228 options! [SOLUTIONS:76]
+Depth: 5 --> 40/210 options! [SOLUTIONS:116]
+Depth: 6 --> 40/296 options! [SOLUTIONS:156]
+Depth: 7 --> 40/274 options! [SOLUTIONS:196]
+Depth: 8 --> 40/288 options! [SOLUTIONS:236]
+Depth: 9 --> 40/122 options! [SOLUTIONS:276]
+Depth: 10 --> 0/40 options! [SOLUTIONS:316]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Hallazeal the Ascended[15]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'King's Defender[16]'(WEAPON)
+MinionAttackTask => [FitzVonGerald] 'Wisp[80]'(MINION) attack 'Thing from Below[44]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[81]'(MINION) attack 'Thing from Below[44]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[82]'(MINION) attack 'Thing from Below[44]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[83]'(MINION) attack 'Thing from Below[44]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[84]'(MINION) attack 'Thing from Below[44]'
+MinionAttackTask => [FitzVonGerald] 'Wisp[85]'(MINION) attack 'Thrall[6]'
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 18/19 options! [SOLUTIONS:1]
+Depth: 2 --> 40/203 options! [SOLUTIONS:19]
+Depth: 3 --> 40/236 options! [SOLUTIONS:59]
+Depth: 4 --> 40/125 options! [SOLUTIONS:99]
+Depth: 5 --> 40/127 options! [SOLUTIONS:139]
+Depth: 6 --> 20/60 options! [SOLUTIONS:179]
+Depth: 7 --> 0/20 options! [SOLUTIONS:199]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Hex[56]'(SPELL) 'Hallazeal the Ascended[15]'
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[59]'(MINION) to Pos[1]
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[55]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Frog[86]'
+MinionAttackTask => [RehHausZuckFuchs] 'Bloodmage Thalnos[64]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Wisp[85]'
+EndTurnTask => [RehHausZuckFuchs]
+here:9
+Player1: PLAYING / Player2: PLAYING - ROUND 10 - FitzVonGerald
+Hero[P1]: 8 / Hero[P2]: 16
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 9/11 options! [SOLUTIONS:1]
+Depth: 2 --> 39/50 options! [SOLUTIONS:9]
+Depth: 3 --> 40/167 options! [SOLUTIONS:37]
+Depth: 4 --> 40/184 options! [SOLUTIONS:72]
+Depth: 5 --> 0/40 options! [SOLUTIONS:112]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Pterrordax Hatchling[27]'(MINION) to Pos[0]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 27/33 options! [SOLUTIONS:3]
+Depth: 3 --> 40/123 options! [SOLUTIONS:30]
+Depth: 4 --> 0/40 options! [SOLUTIONS:70]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 88 to pick
+PlayCardTask => [FitzVonGerald] play 'Jade Chieftain[22]'(MINION) to Pos[0]
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 13/14 options! [SOLUTIONS:1]
+Depth: 2 --> 40/144 options! [SOLUTIONS:14]
+Depth: 3 --> 40/426 options! [SOLUTIONS:54]
+Depth: 4 --> 40/314 options! [SOLUTIONS:94]
+Depth: 5 --> 40/256 options! [SOLUTIONS:134]
+Depth: 6 --> 40/124 options! [SOLUTIONS:174]
+Depth: 7 --> 21/67 options! [SOLUTIONS:215]
+Depth: 8 --> 0/21 options! [SOLUTIONS:236]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Aya Blackpaw[68]'(MINION) to Pos[2]
+EndTurnTask => [RehHausZuckFuchs]
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:13 time taken to execute completely (hh:mm:ss): 00:00:26
+ 
+Swapped Faerie Dragon with Sabotage
+ 
+Printing Deck 10
+Grievous Bite
+Bloodfen Raptor
+Wisps of the Old Gods
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Naturalize
+Cobalt Guardian
+Dark Arakkoa
+Greater Healing Potion
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Seal of Champions
+Argent Protector
+Injured Blademaster
+Sabotage
+Player1: Mulligan 21
+Player2: Mulligan 
+here:10
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 6/9 options! [SOLUTIONS:4]
+Depth: 3 --> 0/6 options! [SOLUTIONS:10]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Maelstrom Portal[49]'(SPELL)
+EndTurnTask => [RehHausZuckFuchs]
+here:10
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 0/5 options! [SOLUTIONS:6]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Bloodfen Raptor[9]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 13/14 options! [SOLUTIONS:1]
+Depth: 2 --> 40/76 options! [SOLUTIONS:14]
+Depth: 3 --> 40/128 options! [SOLUTIONS:54]
+Depth: 4 --> 32/72 options! [SOLUTIONS:94]
+Depth: 5 --> 0/32 options! [SOLUTIONS:126]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Bolt[51]'(SPELL) 'Bloodfen Raptor[9]'
+PlayCardTask => [RehHausZuckFuchs] play 'Small-Time Buccaneer[63]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:10
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 12/13 options! [SOLUTIONS:1]
+Depth: 2 --> 8/20 options! [SOLUTIONS:13]
+Depth: 3 --> 0/8 options! [SOLUTIONS:21]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Forgotten Torch[33]'(SPELL) 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 7/11 options! [SOLUTIONS:5]
+Depth: 3 --> 7/14 options! [SOLUTIONS:12]
+Depth: 4 --> 4/11 options! [SOLUTIONS:19]
+Depth: 5 --> 0/4 options! [SOLUTIONS:23]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:10
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 25 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 15/16 options! [SOLUTIONS:1]
+Depth: 2 --> 40/73 options! [SOLUTIONS:16]
+Depth: 3 --> 0/40 options! [SOLUTIONS:56]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Roaring Torch[72]'(SPELL) 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 21/22 options! [SOLUTIONS:1]
+Depth: 2 --> 40/128 options! [SOLUTIONS:22]
+Depth: 3 --> 40/99 options! [SOLUTIONS:62]
+Depth: 4 --> 27/67 options! [SOLUTIONS:102]
+Depth: 5 --> 11/38 options! [SOLUTIONS:129]
+Depth: 6 --> 4/15 options! [SOLUTIONS:140]
+Depth: 7 --> 1/5 options! [SOLUTIONS:144]
+Depth: 8 --> 0/1 options! [SOLUTIONS:145]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Barnes[65]'(MINION) to Pos[4]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[63]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:10
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 24 / Hero[P2]: 21
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 14/15 options! [SOLUTIONS:1]
+Depth: 2 --> 40/87 options! [SOLUTIONS:14]
+Depth: 3 --> 35/74 options! [SOLUTIONS:53]
+Depth: 4 --> 9/41 options! [SOLUTIONS:85]
+Depth: 5 --> 27/27 options! [SOLUTIONS:85]
+Depth: 6 --> 0/27 options! [SOLUTIONS:112]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Naturalize[29]'(SPELL) 'Small-Time Buccaneer[63]'
+PlayCardTask => [FitzVonGerald] play 'Kazakus[35]'(MINION) to Pos[0]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/9 options! [SOLUTIONS:0]
+Depth: 3 --> 27/27 options! [SOLUTIONS:0]
+Depth: 4 --> 0/27 options! [SOLUTIONS:27]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 78 to pick
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/9 options! [SOLUTIONS:0]
+Depth: 3 --> 0/9 options! [SOLUTIONS:9]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 81 to pick
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 0/3 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 84 to pick
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 38/39 options! [SOLUTIONS:1]
+Depth: 2 --> 40/666 options! [SOLUTIONS:39]
+Depth: 3 --> 40/316 options! [SOLUTIONS:79]
+Depth: 4 --> 40/221 options! [SOLUTIONS:119]
+Depth: 5 --> 40/152 options! [SOLUTIONS:159]
+Depth: 6 --> 40/104 options! [SOLUTIONS:199]
+Depth: 7 --> 20/60 options! [SOLUTIONS:239]
+Depth: 8 --> 0/20 options! [SOLUTIONS:259]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[41]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Kazakus[35]'
+EndTurnTask => [RehHausZuckFuchs]
+here:10
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 18 / Hero[P2]: 21
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 11/12 options! [SOLUTIONS:1]
+Depth: 2 --> 40/53 options! [SOLUTIONS:12]
+Depth: 3 --> 40/222 options! [SOLUTIONS:52]
+Depth: 4 --> 40/156 options! [SOLUTIONS:92]
+Depth: 5 --> 40/106 options! [SOLUTIONS:132]
+Depth: 6 --> 0/40 options! [SOLUTIONS:172]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Molten Blade[23]'(WEAPON)
+HeroAttackTask => [FitzVonGerald] 'Garrosh Hellscream[4]' attacks 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 18/19 options! [SOLUTIONS:1]
+Depth: 2 --> 40/214 options! [SOLUTIONS:19]
+Depth: 3 --> 40/257 options! [SOLUTIONS:59]
+Depth: 4 --> 40/174 options! [SOLUTIONS:99]
+Depth: 5 --> 40/132 options! [SOLUTIONS:139]
+Depth: 6 --> 40/101 options! [SOLUTIONS:179]
+Depth: 7 --> 40/83 options! [SOLUTIONS:219]
+Depth: 8 --> 22/65 options! [SOLUTIONS:262]
+Depth: 9 --> 3/30 options! [SOLUTIONS:289]
+Depth: 10 --> 0/4 options! [SOLUTIONS:293]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[54]'(WEAPON)
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[52]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[71]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Small-Time Buccaneer[77]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:20 time taken to execute completely (hh:mm:ss): 00:00:15
+ 
+Swapped Greater Healing Potion with Shadow Word: Death
+ 
+Printing Deck 11
+Grievous Bite
+Bloodfen Raptor
+Wisps of the Old Gods
+Embrace the Shadow
+Hallazeal the Ascended
+King's Defender
+Devour Mind
+Tol'vir Warden
+Captain Greenskin
+Leper Gnome
+Deathlord
+Jade Chieftain
+Shadow Essence
+Molten Blade
+Powermace
+Flame Lance
+Pterrordax Hatchling
+Silver Hand Regent
+Chillwind Yeti
+Naturalize
+Cobalt Guardian
+Dark Arakkoa
+Forgotten Torch
+Darkshire Librarian
+Kazakus
+Seal of Champions
+Argent Protector
+Injured Blademaster
+Sabotage
+Shadow Word: Death
+Player1: Mulligan 28,18
+Player2: Mulligan 
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 0/1 options! [SOLUTIONS:2]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Leper Gnome[19]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 6/8 options! [SOLUTIONS:3]
+Depth: 3 --> 4/10 options! [SOLUTIONS:9]
+Depth: 4 --> 0/4 options! [SOLUTIONS:13]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Maelstrom Portal[48]'(SPELL)
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 28
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 1/2 options! [SOLUTIONS:1]
+Depth: 2 --> 0/1 options! [SOLUTIONS:2]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 6/10 options! [SOLUTIONS:5]
+Depth: 3 --> 2/8 options! [SOLUTIONS:11]
+Depth: 4 --> 0/2 options! [SOLUTIONS:13]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Patches the Pirate[61]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[71]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 28
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 3/5 options! [SOLUTIONS:3]
+Depth: 3 --> 0/3 options! [SOLUTIONS:6]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Deathlord[20]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 11/17 options! [SOLUTIONS:7]
+Depth: 3 --> 9/20 options! [SOLUTIONS:18]
+Depth: 4 --> 0/9 options! [SOLUTIONS:27]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Bloodmage Thalnos[64]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[61]'(MINION) attack 'Deathlord[20]'
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[71]'(MINION) attack 'Deathlord[20]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 28
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 7/8 options! [SOLUTIONS:1]
+Depth: 2 --> 16/21 options! [SOLUTIONS:6]
+Depth: 3 --> 24/36 options! [SOLUTIONS:18]
+Depth: 4 --> 0/24 options! [SOLUTIONS:42]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Pterrordax Hatchling[26]'(MINION) to Pos[1]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 6/9 options! [SOLUTIONS:3]
+Depth: 3 --> 0/6 options! [SOLUTIONS:9]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 72 to pick
+MinionAttackTask => [FitzVonGerald] 'Deathlord[20]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 10/11 options! [SOLUTIONS:1]
+Depth: 2 --> 28/38 options! [SOLUTIONS:11]
+Depth: 3 --> 29/57 options! [SOLUTIONS:39]
+Depth: 4 --> 0/29 options! [SOLUTIONS:68]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[53]'(SPELL) 'Deathlord[20]'
+MinionAttackTask => [RehHausZuckFuchs] 'Bloodmage Thalnos[64]'(MINION) attack 'Deathlord[20]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 26
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 12/13 options! [SOLUTIONS:1]
+Depth: 2 --> 21/33 options! [SOLUTIONS:13]
+Depth: 3 --> 0/21 options! [SOLUTIONS:34]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Flame Lance[25]'(SPELL) 'Jade Golem[75]'
+MinionAttackTask => [FitzVonGerald] 'Pterrordax Hatchling[26]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 5/6 options! [SOLUTIONS:1]
+Depth: 2 --> 18/23 options! [SOLUTIONS:6]
+Depth: 3 --> 40/74 options! [SOLUTIONS:24]
+Depth: 4 --> 0/40 options! [SOLUTIONS:64]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+PlayCardTask => [RehHausZuckFuchs] play 'Maelstrom Portal[49]'(SPELL)
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 24
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 13/14 options! [SOLUTIONS:1]
+Depth: 2 --> 40/75 options! [SOLUTIONS:14]
+Depth: 3 --> 40/104 options! [SOLUTIONS:54]
+Depth: 4 --> 0/40 options! [SOLUTIONS:94]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Chillwind Yeti[28]'(MINION) to Pos[0]
+PlayCardTask => [FitzVonGerald] play 'Argent Protector[36]'(MINION) 'Chillwind Yeti[28]' to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Pterrordax Hatchling[26]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 14/15 options! [SOLUTIONS:1]
+Depth: 2 --> 40/99 options! [SOLUTIONS:15]
+Depth: 3 --> 40/123 options! [SOLUTIONS:55]
+Depth: 4 --> 20/60 options! [SOLUTIONS:95]
+Depth: 5 --> 9/29 options! [SOLUTIONS:115]
+Depth: 6 --> 0/9 options! [SOLUTIONS:124]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Totem Golem[42]'(MINION) to Pos[0]
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[41]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Crystalline Oracle[80]'(MINION) attack 'Pterrordax Hatchling[26]'
+PlayCardTask => [RehHausZuckFuchs] play 'Naturalize[84]'(SPELL) 'Chillwind Yeti[28]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 28 / Hero[P2]: 22
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 21/22 options! [SOLUTIONS:1]
+Depth: 2 --> 40/188 options! [SOLUTIONS:22]
+Depth: 3 --> 40/232 options! [SOLUTIONS:62]
+Depth: 4 --> 30/70 options! [SOLUTIONS:102]
+Depth: 5 --> 0/30 options! [SOLUTIONS:132]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Captain Greenskin[18]'(MINION) to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Argent Protector[36]'(MINION) attack 'Thrall[6]'
+MinionAttackTask => [FitzVonGerald] 'Chillwind Yeti[28]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 28/29 options! [SOLUTIONS:1]
+Depth: 2 --> 40/239 options! [SOLUTIONS:29]
+Depth: 3 --> 40/140 options! [SOLUTIONS:69]
+Depth: 4 --> 0/40 options! [SOLUTIONS:109]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Aya Blackpaw[68]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Argent Protector[36]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 27 / Hero[P2]: 16
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 24/25 options! [SOLUTIONS:1]
+Depth: 2 --> 40/288 options! [SOLUTIONS:25]
+Depth: 3 --> 40/352 options! [SOLUTIONS:65]
+Depth: 4 --> 40/252 options! [SOLUTIONS:105]
+Depth: 5 --> 0/40 options! [SOLUTIONS:145]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Hallazeal the Ascended[14]'(MINION) to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Captain Greenskin[18]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 40/51 options! [SOLUTIONS:1]
+Depth: 2 --> 40/931 options! [SOLUTIONS:41]
+Depth: 3 --> 40/607 options! [SOLUTIONS:81]
+Depth: 4 --> 40/367 options! [SOLUTIONS:121]
+Depth: 5 --> 40/276 options! [SOLUTIONS:161]
+Depth: 6 --> 40/146 options! [SOLUTIONS:201]
+Depth: 7 --> 0/40 options! [SOLUTIONS:241]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Ragnaros the Firelord[69]'(MINION) to Pos[2]
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 9 - FitzVonGerald
+Hero[P1]: 27 / Hero[P2]: 11
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 26/27 options! [SOLUTIONS:1]
+Depth: 2 --> 40/343 options! [SOLUTIONS:27]
+Depth: 3 --> 40/535 options! [SOLUTIONS:67]
+Depth: 4 --> 40/208 options! [SOLUTIONS:107]
+Depth: 5 --> 0/40 options! [SOLUTIONS:147]
+- Player 1 - <FitzVonGerald> ---------------------------
+MinionAttackTask => [FitzVonGerald] 'Captain Greenskin[18]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 25/26 options! [SOLUTIONS:1]
+Depth: 2 --> 40/453 options! [SOLUTIONS:26]
+Depth: 3 --> 40/466 options! [SOLUTIONS:65]
+Depth: 4 --> 40/367 options! [SOLUTIONS:105]
+Depth: 5 --> 40/175 options! [SOLUTIONS:145]
+Depth: 6 --> 40/121 options! [SOLUTIONS:185]
+Depth: 7 --> 40/87 options! [SOLUTIONS:225]
+Depth: 8 --> 17/57 options! [SOLUTIONS:265]
+Depth: 9 --> 0/17 options! [SOLUTIONS:282]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Forgotten Torch[84]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Storm[50]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Claws[54]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Aya Blackpaw[68]'(MINION) attack 'Chillwind Yeti[28]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[85]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[41]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Totem Golem[42]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 10 - FitzVonGerald
+Hero[P1]: 4 / Hero[P2]: 6
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 18/19 options! [SOLUTIONS:1]
+Depth: 2 --> 40/174 options! [SOLUTIONS:20]
+Depth: 3 --> 40/271 options! [SOLUTIONS:60]
+Depth: 4 --> 21/61 options! [SOLUTIONS:100]
+Depth: 5 --> 0/21 options! [SOLUTIONS:121]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Wisps of the Old Gods[10]'(SPELL) Option 2
+MinionAttackTask => [FitzVonGerald] 'Captain Greenskin[18]'(MINION) attack 'Thrall[6]'
+- Player 2 - <FitzVonGerald> ---------------------------
+Game: COMPLETE, Player1: WON / Player2: LOST
+Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:4health player 2:-1 time taken to execute completely (hh:mm:ss): 00:00:31
+Testing with inital deck....
+Player1: Mulligan 34,21,28
+Player2: Mulligan 45,60
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 0/1 options! [SOLUTIONS:1]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 5/7 options! [SOLUTIONS:3]
+Depth: 3 --> 1/6 options! [SOLUTIONS:8]
+Depth: 4 --> 0/1 options! [SOLUTIONS:9]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Tunnel Trogg[40]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 2/3 options! [SOLUTIONS:1]
+Depth: 2 --> 0/2 options! [SOLUTIONS:3]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 6/7 options! [SOLUTIONS:1]
+Depth: 2 --> 17/23 options! [SOLUTIONS:7]
+Depth: 3 --> 17/34 options! [SOLUTIONS:24]
+Depth: 4 --> 2/19 options! [SOLUTIONS:41]
+Depth: 5 --> 0/2 options! [SOLUTIONS:43]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[58]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 27 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/4 options! [SOLUTIONS:1]
+Depth: 2 --> 0/3 options! [SOLUTIONS:4]
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 4/5 options! [SOLUTIONS:1]
+Depth: 2 --> 11/15 options! [SOLUTIONS:5]
+Depth: 3 --> 17/28 options! [SOLUTIONS:16]
+Depth: 4 --> 15/32 options! [SOLUTIONS:33]
+Depth: 5 --> 6/21 options! [SOLUTIONS:48]
+Depth: 6 --> 0/6 options! [SOLUTIONS:54]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[70]'(SPELL)
+PlayCardTask => [RehHausZuckFuchs] play 'Barnes[65]'(MINION) to Pos[2]
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 24 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 8/9 options! [SOLUTIONS:1]
+Depth: 2 --> 12/19 options! [SOLUTIONS:8]
+Depth: 3 --> 9/18 options! [SOLUTIONS:17]
+Depth: 4 --> 27/27 options! [SOLUTIONS:17]
+Depth: 5 --> 0/27 options! [SOLUTIONS:44]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Chillwind Yeti[28]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 40/63 options! [SOLUTIONS:10]
+Depth: 3 --> 40/215 options! [SOLUTIONS:50]
+Depth: 4 --> 40/204 options! [SOLUTIONS:90]
+Depth: 5 --> 40/111 options! [SOLUTIONS:130]
+Depth: 6 --> 25/65 options! [SOLUTIONS:170]
+Depth: 7 --> 3/28 options! [SOLUTIONS:195]
+Depth: 8 --> 1/4 options! [SOLUTIONS:198]
+Depth: 9 --> 0/1 options! [SOLUTIONS:199]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Spirit Claws[47]'(WEAPON)
+MinionAttackTask => [RehHausZuckFuchs] 'Tunnel Trogg[40]'(MINION) attack 'Chillwind Yeti[28]'
+PlayCardTask => [RehHausZuckFuchs] play 'Maelstrom Portal[49]'(SPELL)
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Azure Drake[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 15 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 9/10 options! [SOLUTIONS:1]
+Depth: 2 --> 21/29 options! [SOLUTIONS:9]
+Depth: 3 --> 9/27 options! [SOLUTIONS:27]
+Depth: 4 --> 27/27 options! [SOLUTIONS:27]
+Depth: 5 --> 9/36 options! [SOLUTIONS:54]
+Depth: 6 --> 0/9 options! [SOLUTIONS:63]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Kazakus[34]'(MINION) to Pos[0]
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/9 options! [SOLUTIONS:0]
+Depth: 3 --> 27/27 options! [SOLUTIONS:0]
+Depth: 4 --> 21/48 options! [SOLUTIONS:27]
+Depth: 5 --> 0/21 options! [SOLUTIONS:48]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 73 to pick
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/9 options! [SOLUTIONS:0]
+Depth: 3 --> 15/24 options! [SOLUTIONS:9]
+Depth: 4 --> 0/15 options! [SOLUTIONS:24]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 78 to pick
+* Recaclulating due to a final solution ...
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 3/3 options! [SOLUTIONS:0]
+Depth: 2 --> 9/12 options! [SOLUTIONS:3]
+Depth: 3 --> 0/9 options! [SOLUTIONS:12]
+- Player 1 - <FitzVonGerald> ---------------------------
+ChooseTask => [FitzVonGerald] choosed 80 to pick
+PlayCardTask => [FitzVonGerald] play 'Lesser Potion[82]'(SPELL) 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 28/29 options! [SOLUTIONS:1]
+Depth: 2 --> 40/352 options! [SOLUTIONS:29]
+Depth: 3 --> 40/283 options! [SOLUTIONS:69]
+Depth: 4 --> 40/180 options! [SOLUTIONS:109]
+Depth: 5 --> 40/101 options! [SOLUTIONS:149]
+Depth: 6 --> 15/55 options! [SOLUTIONS:189]
+Depth: 7 --> 0/15 options! [SOLUTIONS:204]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[45]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Kazakus[34]'
+MinionAttackTask => [RehHausZuckFuchs] 'Zealous Initiate[72]'(MINION) attack 'Kabal Demon[83]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Kabal Demon[83]'
+MinionAttackTask => [RehHausZuckFuchs] 'Azure Drake[71]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+here:11
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 11 / Hero[P2]: 27
+
+* Calculating solutions *** Player 1 ***
+Depth: 1 --> 11/12 options! [SOLUTIONS:1]
+Depth: 2 --> 23/34 options! [SOLUTIONS:12]
+Depth: 3 --> 4/27 options! [SOLUTIONS:35]
+Depth: 4 --> 0/4 options! [SOLUTIONS:39]
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Shadow Word: Death[39]'(SPELL) 'Thing from Below[45]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+Depth: 1 --> 17/18 options! [SOLUTIONS:1]
+Depth: 2 --> 40/207 options! [SOLUTIONS:18]
+Depth: 3 --> 40/197 options! [SOLUTIONS:58]
+Depth: 4 --> 40/111 options! [SOLUTIONS:101]
+Depth: 5 --> 39/80 options! [SOLUTIONS:142]
+Depth: 6 --> 18/59 options! [SOLUTIONS:183]
+Depth: 7 --> 0/22 options! [SOLUTIONS:205]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Azure Drake[67]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Lightning Bolt[51]'(SPELL) 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[58]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Barnes[65]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: COMPLETE, Player1: LOST / Player2: WON
+Game 0 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:23 time taken to execute completely (hh:mm:ss): 00:00:04
+
+Game 1 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:19 time taken to execute completely (hh:mm:ss): 00:00:48
+
+Game 2 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:27 time taken to execute completely (hh:mm:ss): 00:00:05
+
+Game 3 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-2health player 2:19 time taken to execute completely (hh:mm:ss): 00:00:08
+
+Game 4 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:18 time taken to execute completely (hh:mm:ss): 00:00:17
+
+Game 5 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:7 time taken to execute completely (hh:mm:ss): 00:00:37
+
+Game 6 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:27 time taken to execute completely (hh:mm:ss): 00:00:08
+
+Game 7 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-1health player 2:24 time taken to execute completely (hh:mm:ss): 00:00:09
+
+Game 8 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:-4health player 2:24 time taken to execute completely (hh:mm:ss): 00:00:17
+
+Game 9 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:13 time taken to execute completely (hh:mm:ss): 00:00:26
+
+Game 10 : Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:20 time taken to execute completely (hh:mm:ss): 00:00:15
+
+Game 11 : Game: {game.State}, Player1: WON / Player2:LOSThealth: player1:4health player 2:-1 time taken to execute completely (hh:mm:ss): 00:00:31
+
+Game 12 : Testing with inital deck....Game: {game.State}, Player1: LOST / Player2:WONhealth: player1:0health player 2:27 time taken to execute completely (hh:mm:ss): 00:00:09
+
+Before Mutation Victory Decks:

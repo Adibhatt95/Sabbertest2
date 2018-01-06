@@ -23,6 +23,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.Linq;
 using System.IO;
+using System.Diagnostics;
 //using System.Data.DataSet;
 
 namespace Sabbertest2
@@ -31,53 +32,117 @@ namespace Sabbertest2
     {//this is the heavily modified code by me, Aditya. see comments in the code for clarity. If any more questions, then contact me on the email thread.
         private static readonly Random Rnd = new Random();
         static Dictionary<string, int> cardname = new Dictionary<string, int>();
-        private static string locOfMaster = "D:\\GameInnovationLab\\SabberStone-master";//most important line, this indicates location of the project in your machine. edit here only, exactly as shown.
+        //private static string locOfMaster = "D:\\GameInnovationLab\\SabberStone-master";//most important line, this indicates location of the project in your machine. edit here only, exactly as shown.
+        private static int maxDepth = 13;//maxDepth = 10 and maxWidth = 500 is optimal 
+        private static int maxWidth = 50;//keep maxDepth high(around 13) and maxWidth very low (40) for maximum speed
+        private static Stopwatch stopwatch = new Stopwatch();
+        private static int parallelThreads = 10;// number of parallel running threads
+        private static int testsInEachThread = 1;//number of games in each thread
+                                                 //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
+        private static int parallelThreadsInner = 10;
+        private static int testsInEachThreadInner = 5;
+        //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
         private static void Main(string[] args)
         {
-
+        
             //Console.WriteLine(Cards.FromName("This is an invalid name") == Cards.FromName("Default"));-ignore this, this was for testing
-
-            Console.WriteLine("Starting test setup.");
-            Sabbertest2.CreateAndMutate createMutateObj = new CreateAndMutate();//this is the class I added which contains all functions
-                                                                                              //this above object will help you mutate or create a deck, without worrying about underlying code.
-
+            Console.WriteLine("Starting test setup. v6.7: run in parallel "+ parallelThreads + "x and in each parallel, no of tasks:"+ testsInEachThread  +  " and inner parallel:"+ parallelThreadsInner + " and each within inner parallel, inner tasks:"+ testsInEachThreadInner + " times, different decks, get winrates and time avg of each and print max depth ="+ maxDepth + " , max width = " + maxWidth +  "");
+            Sabbertest2.CreateAndMutate createMutateObj = new CreateAndMutate();//this is the class I added which contains all functions1
+                                                                                //this above object will help you mutate or create a deck, without worrying about underlying code.
+            Dictionary<int, List<Card>> victoryMany = new Dictionary<int, List<Card>>();
             //OneTurn();-ignore this
             Dictionary<int, string> allCards = getAllCards();//important function, must be done in main before anything else, this will get all the valid hearthstone cards (1300+ cards in total) from the data file
-            string[] results = new string[15];//max 15 tests, can be increased/changed without any problems, make sure max j * max i <= size of results array
-
+           // string[] results = new string[100];//max 15 tests, can be increased/changed without any problems, make sure max j * max i <= size of results array
+            Dictionary<int, string> results = new Dictionary<int, string>();
             List<Card> victorious = new List<Card>();
-            int parallelThreads = 1;// number of parallel running threads
-            int testsInEachThread = 1;//number of games in each thread
-                                      //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
+            List<Card> playerDeck = createMutateObj.createRandomDeck(allCards, cardname);//this liine returns randomly created deck from all cards in hearthsone, which is passed as parameter 
+            bool end = false;
+            List<Card> playerDeck2 = Decks.MidrangeJadeShaman;
+            stopwatch.Start();
+            //DateTime start = new DateTime();
+            //DateTime stop = new DateTime();
             Parallel.For(0, parallelThreads, j =>
             {
-                for (int i = testsInEachThread * j; i < (j + 1) * testsInEachThread; i++)
+                // int i = 0;
+                
+            // while (!end)
+               // for (int i = testsInEachThread * j; i < (j + 1) * testsInEachThread; i++)//(int i = 0; i < 10 ; i++) //
                 {
-                    List<Card> playerDeck = createMutateObj.createRandomDeck(allCards, cardname);//this liine returns randomly created deck from all cards in hearthsone, which is passed as parameter 
-                    results[i] = FullGame(playerDeck, i);
-                    //if (results[i].Contains("Player1: WON"))-this is to get the deck only if it wins
+                    if (!results.ContainsKey(j))
                     {
-                        victorious = playerDeck; //this gives the last deck that played the game
+                        Console.WriteLine("outer i, deck number=" + j);
+                        Console.WriteLine("Printing Deck player 1, loop is here=" + j);
+                        createMutateObj.print(playerDeck);
+                        Console.WriteLine("Printing Deck player 2 loop is here=" + j);
+                        createMutateObj.print(playerDeck);
+                        string winRate_timeMean = getWinRateTimeMean(playerDeck, j, playerDeck2);
+                       
+                        results.Add(j, winRate_timeMean);
+                        Console.WriteLine(results[j]);
                     }
+                    /*if (results[i].Contains("Player1: WON"))//-this is to get the deck only if it wins
+                    {
+                        playerDeck2 = playerDeck;
+                        Console.WriteLine("Testing with inital deck....");
+                        string s = "Testing with inital deck....";
+                        stopwatch.Start();
+                        s = s + FullGame(playerDeck, i, Decks.MidrangeJadeShaman);
+                        stopwatch.Stop();
+                        long seconds = (stopwatch.ElapsedMilliseconds / 1000);//(stop - start).ToString();//
+                        TimeSpan t = TimeSpan.FromSeconds(seconds);
+                        if (s.Contains("Player1: LOST"))
+                        {
+                            s = s + " time taken to execute completely (hh:mm:ss): " + t.ToString();
+                            results.Add(i+1, s);
+                            break;
+                        }
+                        playerDeck = playerDeck = createMutateObj.createRandomDeck(allCards, cardname);
+                        
+                        //break;
+                        //victorious = playerDeck;
+                        /* if (!victoryMany.ContainsKey(i))
+                        {
+                            victoryMany.Add(i, playerDeck); //this gives the last deck that played the game
+                        }
+                        //end = true;
+                    }
+                    else
+                    {
+                           playerDeck = createMutateObj.mutate(playerDeck, allCards, cardname);//keep mutating till victory
+                    }*/
+                    //i++;
+                    if(j == 100)
+                    {
+                      //  end = true;
+                    }
+                   
+                    playerDeck = createMutateObj.createRandomDeck(allCards, cardname);
                 }
             });
-            for (int i = 0; i < 15; i++)//for 15 results here, if parallel threads * testInEachThread = 6, then 6 tests will show here
+           /* for (int i = 0; i < results.Length; i++)//for 15 results here, if parallel threads * testInEachThread = 6, then 6 tests will show here
             {
                 Console.WriteLine("Game " + i + " : " + results[i] + "\n");
+            }*/
+            foreach(int key in results.Keys)
+            {
+                Console.WriteLine("Game " + key + " : " + results[key] + "\n");
             }
-            Console.WriteLine("Before Mutation Deck:");
-            createMutateObj.print(victorious);
+            Console.WriteLine("Before Mutation Victory Decks:");
+            stopwatch.Stop();
+            TimeSpan tempeForOverall = TimeSpan.FromSeconds(stopwatch.ElapsedMilliseconds / 1000);
+            Console.WriteLine("Overall time taken:" + tempeForOverall.ToString());
+            /* createMutateObj.print(victorious);
 
 
-            List<Card> myDeck = new List<Card>();
-            myDeck = victorious;//myDeck can be anything, I have made it =victorious/last deck created in the loop.
-            List<Card> mutated = createMutateObj.mutate(myDeck, allCards, cardname);//make your deck myDeck and pass it here to mutate it.
+             List<Card> myDeck = new List<Card>();
+             myDeck = victorious;//myDeck can be anything, I have made it =victorious/last deck created in the loop.
+             List<Card> mutated = createMutateObj.mutate(myDeck, allCards, cardname);//make your deck myDeck and pass it here to mutate it.
 
-            //RandomGames(); - ignore this line
-            Console.WriteLine("\n Mutated Deck: \n");
-            createMutateObj.print(mutated);
-            Console.WriteLine("Test end!");
-            Console.ReadLine();
+             //RandomGames(); - ignore this line
+             Console.WriteLine("\n Mutated Deck: \n");
+             createMutateObj.print(mutated);
+             Console.WriteLine("Test end!");*/
+             Console.ReadLine();
         }
 
         //create
@@ -110,6 +175,77 @@ namespace Sabbertest2
 		}
 		*/
         //build allcards in dictionary from txt file
+
+
+        public static string getWinRateTimeMean(List<Card> player1Deck, int where, List<Card> player2Deck)
+        {
+            int[] wins = Enumerable.Repeat(0,1000).ToArray();
+            long sum_Timetaken = 0;
+            int winss = 0;
+            object[] temp()
+            {
+                object[] obj = new object[1002];
+                for (int i = 0; i < parallelThreadsInner * testsInEachThreadInner; i++)
+                {
+                    obj[i] = new Stopwatch();
+                }
+                return obj;
+            }
+            object[] stopwatches = temp();
+            Parallel.For(0, parallelThreadsInner, j =>
+            {
+                // int i = 0;
+                long max = 0;
+                // while (!end)
+                for (int i = testsInEachThreadInner * j; i < (j + 1) * testsInEachThreadInner; i++)//(int i = 0; i < 10 ; i++) //
+                {
+                    Console.WriteLine("Inner i, or here inside getWinRateTimeMean at here= " + i);
+                    ((Stopwatch)stopwatches[i]).Start();
+                    // start = DateTime.Now;
+                    string s = FullGame(player1Deck, i, player2Deck);
+                    //stop = DateTime.Now;
+                    ((Stopwatch)stopwatches[i]).Stop();
+                    long seconds = (((Stopwatch)stopwatches[i]).ElapsedMilliseconds / 1000);//(stop - start).ToString();//
+                    Console.WriteLine("secondes:" + seconds);
+                    if(max < seconds)
+                    {
+                        max = seconds;
+                    }
+                    TimeSpan tempe = TimeSpan.FromSeconds(seconds);
+                    Console.WriteLine("time taken for "+ i +":" + tempe);
+                    sum_Timetaken = sum_Timetaken + seconds;
+                    Console.WriteLine("sum_TimeTaken in loop:" + sum_Timetaken);
+                    //((Stopwatch)stopwatches[i]).Reset();
+                    if (s.Contains("Player1: WON"))
+                    {
+                        wins[i]++;
+                        winss++;
+                        Console.WriteLine("Winss:" + winss);
+                    }
+                }
+                Console.WriteLine("Max was:" + max);
+                max = 0;
+            });
+
+            for (int i = 0; i < (parallelThreadsInner * testsInEachThreadInner); i++)
+                Console.WriteLine("wins:" + wins[i]);
+            sum_Timetaken = 0;
+            for (int i = 0; i < (parallelThreadsInner * testsInEachThreadInner); i++)
+            {
+                Console.WriteLine("Times:" + ((Stopwatch)stopwatches[i]).ElapsedMilliseconds / 1000);
+                sum_Timetaken = sum_Timetaken + ((Stopwatch)stopwatches[i]).ElapsedMilliseconds / 1000;
+            }
+            Console.WriteLine("New sum_timetaken=" + sum_Timetaken);
+            TimeSpan t = TimeSpan.FromSeconds(sum_Timetaken / (parallelThreadsInner * testsInEachThreadInner));
+            int winsSum = 0;
+            for (int i = 0; i < (parallelThreadsInner * testsInEachThreadInner); i++)
+                if (wins[i] == 1)
+                    winsSum++;
+            //winsSum = winss;
+            Console.WriteLine(winss + "is winss");
+            long winrate = ((winsSum / (parallelThreadsInner * testsInEachThreadInner)) * 100);
+            return "Win rate = " + winrate + "% and average time of each round (hh:mm:ss) = " + t.ToString();
+        }
         public static Dictionary<int, string> getAllCards()
         {
             Dictionary<int, string> allcards = new Dictionary<int, string>();
@@ -256,7 +392,7 @@ namespace Sabbertest2
         }
 
         //the game we need
-        public static string FullGame(List<Card> player1Deck, int where)
+        public static string FullGame(List<Card> player1Deck, int where, List<Card> player2Deck)
         {
             var game = new Game(
                 new GameConfig()
@@ -267,7 +403,7 @@ namespace Sabbertest2
                     Player1Deck = player1Deck,//Decks.AggroPirateWarrior,
                     Player2Name = "RehHausZuckFuchs",
                     Player2HeroClass = CardClass.SHAMAN,
-                    Player2Deck = Decks.MidrangeJadeShaman,
+                    Player2Deck = player2Deck,
                     FillDecks = false,
                     Shuffle = true,
                     SkipMulligan = false
@@ -298,7 +434,7 @@ namespace Sabbertest2
                 while (game.State == State.RUNNING && game.CurrentPlayer == game.Player1)
                 {
                     Console.WriteLine($"* Calculating solutions *** Player 1 ***");
-                    List<OptionNode> solutions = OptionNode.GetSolutions(game, game.Player1.Id, aiPlayer1, 10, 500);
+                    List<OptionNode> solutions = OptionNode.GetSolutions(game, game.Player1.Id, aiPlayer1, maxDepth, maxWidth);
                     var solution = new List<PlayerTask>();
                     solutions.OrderByDescending(p => p.Score).First().PlayerTasks(ref solution);
                     Console.WriteLine($"- Player 1 - <{game.CurrentPlayer.Name}> ---------------------------");
@@ -323,7 +459,7 @@ namespace Sabbertest2
                     //Log.Info($"[{option.FullPrint()}]");
                     //game.Process(option);
                     Console.WriteLine($"* Calculating solutions *** Player 2 ***");
-                    List<OptionNode> solutions = OptionNode.GetSolutions(game, game.Player2.Id, aiPlayer2, 10, 500);
+                    List<OptionNode> solutions = OptionNode.GetSolutions(game, game.Player2.Id, aiPlayer2, maxDepth, maxWidth);
                     var solution = new List<PlayerTask>();
                     solutions.OrderByDescending(p => p.Score).First().PlayerTasks(ref solution);
                     Console.WriteLine($"- Player 2 - <{game.CurrentPlayer.Name}> ---------------------------");
@@ -340,7 +476,7 @@ namespace Sabbertest2
                 }
             }
             Console.WriteLine($"Game: {game.State}, Player1: {game.Player1.PlayState} / Player2: {game.Player2.PlayState}");
-            return "Game: {game.State}, Player1: " + game.Player1.PlayState + " / Player2:" + game.Player2.PlayState;
+            return "Game: {game.State}, Player1: " + game.Player1.PlayState + " / Player2:" + game.Player2.PlayState +"health: player1:"+ game.Player1.Hero.Health+ "health player 2:"+ game.Player2.Hero.Health;
         }
 
         /*
