@@ -34,13 +34,13 @@ namespace Sabbertest2
         static Dictionary<string, int> cardname = new Dictionary<string, int>();
         //private static string locOfMaster = "D:\\GameInnovationLab\\SabberStone-master";//most important line, this indicates location of the project in your machine. edit here only, exactly as shown.
         private static int maxDepth = 13;//maxDepth = 10 and maxWidth = 500 is optimal 
-        private static int maxWidth = 30;//keep maxDepth high(around 13) and maxWidth very low (40) for maximum speed
+        private static int maxWidth = 10;//keep maxDepth high(around 13) and maxWidth very low (40) for maximum speed
         private static Stopwatch stopwatch = new Stopwatch();
-        private static int parallelThreads = 10;// number of parallel running threads
+        private static int parallelThreads = 4;// number of parallel running threads
         private static int testsInEachThread = 1;//number of games in each thread
                                                  //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
-        private static int parallelThreadsInner = 1;
-        private static int testsInEachThreadInner = 50;
+        private static int parallelThreadsInner = 10;
+        private static int testsInEachThreadInner = 5;
         //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
         private static void Main(string[] args)
         {
@@ -202,7 +202,18 @@ namespace Sabbertest2
                     Console.WriteLine("Inner i, or here inside getWinRateTimeMean at here= " + i);
                     ((Stopwatch)stopwatches[i]).Start();
                     // start = DateTime.Now;
-                    string s = FullGame(player1Deck, i, player2Deck);
+                    string s = "";
+                    try
+                    {
+                         s = FullGame(player1Deck, i, player2Deck);
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e.Message);
+                        CreateAndMutate createAndMutate = new CreateAndMutate();
+                        Console.WriteLine("Player 1 deck that caused issue:");
+                        createAndMutate.print(player1Deck);
+                    }
                     //stop = DateTime.Now;
                     ((Stopwatch)stopwatches[i]).Stop();
                     long seconds = (((Stopwatch)stopwatches[i]).ElapsedMilliseconds / 1000);//(stop - start).ToString();//
@@ -239,9 +250,10 @@ namespace Sabbertest2
             TimeSpan t = TimeSpan.FromSeconds(sum_Timetaken / (parallelThreadsInner * testsInEachThreadInner));
             int winsSum = 0;
             for (int i = 0; i < (parallelThreadsInner * testsInEachThreadInner); i++)
-                if (wins[i] == 1)
+                if (wins[i] > 0)
                     winsSum++;
             //winsSum = winss;
+            Console.WriteLine(winsSum + "is winsSum");
             Console.WriteLine(winss + "is winss");
             long winrate = ((winsSum / (parallelThreadsInner * testsInEachThreadInner)) * 100);
             return "Win rate = " + winrate + "% and average time of each round (hh:mm:ss) = " + t.ToString();
